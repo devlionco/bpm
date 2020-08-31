@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mikehaertl/phpwkhtmltopdf": "^2.2",
+        "knplabs/knp-snappy": "^0.5.0"
+    }
+}

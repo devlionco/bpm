@@ -1,0 +1,1301 @@
+2020-05-19 07:38:17
+Array
+(
+    [X-HTTPS] => 1
+    [COOKIE] => intercom-id-qpd4962k=69ffaed3-4d6a-47e0-9f5d-983114b2a77b; _ga=GA1.2.1760857468.1575393968; fc_campaign=(direct); fc_medium=(none); fc_source=(direct); fc_channel=Direct; fc_content=(not set); fc_referrer=(not set); fc_term=(not set); fc_landing=https://www.bpm-music.com/; GA_Client_ID__c=1760857468.1575393968; lc_medium=referral; lc_term=(not set); lc_campaign=(referral); lc_channel=Referral; operating_system=Windows 10; lc_source=webto.salesforce.com; lc_referrer=https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8; lc_content=https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8; pages_visited_list=/|/contact-us/|/music-reality-shows/|/thank-you-sticky/|/workshop_wtl/|/bpm-branches/bpm-college-haifa/|/thank-you-form/|/thank-you-course-info/|/course/music-theory/|/course/dj/|/course/fl-studio-production/|/contact-us/consultation/|/thank-you-sadna/|/event/online-music-studio-lesson/|/students-zone/|/students-zone/bpm-jobs/|/bpm-corona-update/|/bpm-haifa-branch/|/event/online-dj-lesson/|/pro-tips/|/campaign_subscription/|/remix-registration/cpgn=7011p000000bkf6&cn=%D7%AA%D7%97%D7%A8%D7%95%D7%AA%20%D7%A8%D7%9E%D7%99%D7%A7%D7%A1%20-%20%D7%A2%D7%93%D7%99%20%D7%90%D7%95%D7%9C%D7%9E%D7%A0%D7%A1%D7%A7%D7%99&d=2020-04-26&rtn=https:/www.bpm-music.com/thank-you-remix/&img=https:/www.bpm-music.com/wp-content/uploads/2020/04/adi-remix-competition-bpm.jpg|/remix-registration/|/thank-you-remix/|/remix-submission/|/remix-submission/thank-you-submission|/%d7%96%d7%9e%d7%a0%d7%99_%d7%9e%d7%95%d7%97%d7%a7/|/thank-you-contact-us/|/workshop_wtl_exclusive/|/event/|/imbpm/|/%D7%96%D7%9E%D7%A0%D7%99_%D7%9E%D7%95%D7%97%D7%A7/|/my; browser=Chrome 81.04044138; lc_landing=https://www.bpm-music.com/; page_visits=415; __utma=218754634.1760857468.1575393968.1589280879.1589353786.59; __utmz=218754634.1589353786.59.20.utmcsr=webto.salesforce.com|utmccn=(referral)|utmcmd=referral|utmcct=/servlet/servlet.WebToLead; time_passed=982811098; _gid=GA1.2.991202848.1589691165; __insp_wid=1340156164; __insp_nv=true; __insp_targlpt=16LXnteV15Mg15TXkdeZ16ogLSBCUE0gU2hvcA%3D%3D; __insp_targlpu=aHR0cHM6Ly9zaG9wLmJwbS1tdXNpYy5jb20v; __insp_norec_sess=true; __insp_slim=1589804673260; MoodleSession=tn29ram9ebura88j7kteib7t97; intercom-session-qpd4962k=MEdvME5IbUsvSk5pMnNBazY3azBTQnlQNXZJbThaSExjT2srK0VxeWpYU1U4YXNXbWxMV21HTU1acHFuWEwzLy0tTWxGbFowSllsVkxNdHJ0cThiQzJRQT09--2323a0d1e24035f23860524c0aa9a9fea6e16ce1
+    [ACCEPT-LANGUAGE] => en-US,en;q=0.9,he;q=0.8
+    [ACCEPT-ENCODING] => gzip, deflate, br
+    [SEC-FETCH-DEST] => document
+    [SEC-FETCH-USER] => ?1
+    [SEC-FETCH-MODE] => navigate
+    [SEC-FETCH-SITE] => none
+    [ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [USER-AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+    [UPGRADE-INSECURE-REQUESTS] => 1
+    [CACHE-CONTROL] => max-age=0
+    [CONNECTION] => keep-alive
+    [HOST] => my.bpm-music.com
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+            [exec_mode] => user
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 3819
+)
+
+2020-05-19 07:38:31
+Array
+(
+    [X-HTTPS] => 1
+    [COOKIE] => intercom-id-qpd4962k=69ffaed3-4d6a-47e0-9f5d-983114b2a77b; _ga=GA1.2.1760857468.1575393968; fc_campaign=(direct); fc_medium=(none); fc_source=(direct); fc_channel=Direct; fc_content=(not set); fc_referrer=(not set); fc_term=(not set); fc_landing=https://www.bpm-music.com/; GA_Client_ID__c=1760857468.1575393968; lc_medium=referral; lc_term=(not set); lc_campaign=(referral); lc_channel=Referral; operating_system=Windows 10; lc_source=webto.salesforce.com; lc_referrer=https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8; lc_content=https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8; pages_visited_list=/|/contact-us/|/music-reality-shows/|/thank-you-sticky/|/workshop_wtl/|/bpm-branches/bpm-college-haifa/|/thank-you-form/|/thank-you-course-info/|/course/music-theory/|/course/dj/|/course/fl-studio-production/|/contact-us/consultation/|/thank-you-sadna/|/event/online-music-studio-lesson/|/students-zone/|/students-zone/bpm-jobs/|/bpm-corona-update/|/bpm-haifa-branch/|/event/online-dj-lesson/|/pro-tips/|/campaign_subscription/|/remix-registration/cpgn=7011p000000bkf6&cn=%D7%AA%D7%97%D7%A8%D7%95%D7%AA%20%D7%A8%D7%9E%D7%99%D7%A7%D7%A1%20-%20%D7%A2%D7%93%D7%99%20%D7%90%D7%95%D7%9C%D7%9E%D7%A0%D7%A1%D7%A7%D7%99&d=2020-04-26&rtn=https:/www.bpm-music.com/thank-you-remix/&img=https:/www.bpm-music.com/wp-content/uploads/2020/04/adi-remix-competition-bpm.jpg|/remix-registration/|/thank-you-remix/|/remix-submission/|/remix-submission/thank-you-submission|/%d7%96%d7%9e%d7%a0%d7%99_%d7%9e%d7%95%d7%97%d7%a7/|/thank-you-contact-us/|/workshop_wtl_exclusive/|/event/|/imbpm/|/%D7%96%D7%9E%D7%A0%D7%99_%D7%9E%D7%95%D7%97%D7%A7/|/my; browser=Chrome 81.04044138; lc_landing=https://www.bpm-music.com/; page_visits=415; __utma=218754634.1760857468.1575393968.1589280879.1589353786.59; __utmz=218754634.1589353786.59.20.utmcsr=webto.salesforce.com|utmccn=(referral)|utmcmd=referral|utmcct=/servlet/servlet.WebToLead; time_passed=982811098; _gid=GA1.2.991202848.1589691165; __insp_wid=1340156164; __insp_nv=true; __insp_targlpt=16LXnteV15Mg15TXkdeZ16ogLSBCUE0gU2hvcA%3D%3D; __insp_targlpu=aHR0cHM6Ly9zaG9wLmJwbS1tdXNpYy5jb20v; __insp_norec_sess=true; __insp_slim=1589804673260; MoodleSession=tn29ram9ebura88j7kteib7t97; intercom-session-qpd4962k=MEdvME5IbUsvSk5pMnNBazY3azBTQnlQNXZJbThaSExjT2srK0VxeWpYU1U4YXNXbWxMV21HTU1acHFuWEwzLy0tTWxGbFowSllsVkxNdHJ0cThiQzJRQT09--2323a0d1e24035f23860524c0aa9a9fea6e16ce1
+    [ACCEPT-LANGUAGE] => en-US,en;q=0.9,he;q=0.8
+    [ACCEPT-ENCODING] => gzip, deflate, br
+    [SEC-FETCH-DEST] => document
+    [SEC-FETCH-USER] => ?1
+    [SEC-FETCH-MODE] => navigate
+    [SEC-FETCH-SITE] => none
+    [ACCEPT] => text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+    [USER-AGENT] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+    [UPGRADE-INSECURE-REQUESTS] => 1
+    [CACHE-CONTROL] => max-age=0
+    [CONNECTION] => keep-alive
+    [HOST] => my.bpm-music.com
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+            [exec_mode] => user
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 3820
+)
+
+2020-05-19 10:10:04
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 3821
+)
+
+2020-05-19 15:10:04
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 3822
+)
+
+2020-05-19 15:10:05
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 3823
+)
+
+2020-05-19 15:10:16
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 3824
+)
+
+2020-05-19 16:10:05
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 3825
+)
+
+2020-05-21 12:10:03
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 3828
+)
+
+2020-05-24 10:10:03
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 3829
+)
+
+2020-05-24 15:10:03
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 3830
+)
+
+2020-05-24 15:10:10
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 3831
+)
+
+2020-05-25 10:10:06
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 3832
+)
+
+2020-05-25 10:10:08
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 3833
+)
+
+2020-05-25 14:10:07
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 3834
+)
+
+2020-05-25 15:10:04
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 3835
+)
+
+2020-08-04 10:10:11
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4059
+)
+
+2020-08-04 11:10:12
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4060
+)
+
+2020-08-05 10:10:14
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4061
+)
+
+2020-08-05 10:10:16
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4062
+)
+
+2020-08-05 10:10:17
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4063
+)
+
+2020-08-05 10:10:18
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4064
+)
+
+2020-08-05 11:10:12
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4065
+)
+
+2020-08-05 13:10:10
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4066
+)
+
+2020-08-05 13:10:12
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4067
+)
+
+2020-08-05 16:10:11
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4068
+)
+
+2020-08-06 10:10:11
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4069
+)
+
+2020-08-06 10:10:13
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4070
+)
+
+2020-08-06 17:10:15
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4071
+)
+
+2020-08-06 17:10:23
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4072
+)
+
+2020-08-09 11:10:11
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4073
+)
+
+2020-08-09 11:10:13
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4074
+)
+
+2020-08-09 11:10:13
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4075
+)
+
+2020-08-09 11:10:16
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4076
+)
+
+2020-08-09 17:10:11
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4077
+)
+
+2020-08-09 17:10:16
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4078
+)
+
+2020-08-10 11:10:13
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4079
+)
+
+2020-08-10 11:10:21
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4080
+)
+
+2020-08-10 14:10:12
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4081
+)
+
+2020-08-10 16:10:15
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4083
+)
+
+2020-08-11 12:10:12
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4084
+)
+
+2020-08-11 17:10:14
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4085
+)
+
+2020-08-11 17:10:15
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4086
+)
+
+2020-08-11 17:10:16
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4087
+)
+
+2020-08-12 13:10:13
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4088
+)
+
+2020-08-13 11:10:13
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4089
+)
+
+2020-08-13 11:10:14
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4090
+)
+
+2020-08-13 11:10:15
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4091
+)
+
+2020-08-13 12:10:12
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4092
+)
+
+2020-08-16 10:10:12
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4093
+)
+
+2020-08-16 11:10:12
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4094
+)
+
+2020-08-16 11:10:16
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4095
+)
+
+2020-08-16 11:10:16
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4096
+)
+
+2020-08-16 11:10:17
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4097
+)
+
+2020-08-16 11:10:19
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4098
+)
+
+2020-08-17 10:10:15
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4100
+)
+
+2020-08-17 17:10:14
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4101
+)
+
+2020-08-18 10:10:17
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4102
+)
+
+2020-08-18 14:10:17
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4103
+)
+
+2020-08-18 14:10:21
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4104
+)
+
+2020-08-18 15:10:14
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4105
+)
+
+2020-08-18 15:10:15
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4106
+)
+
+2020-08-18 16:10:13
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4107
+)
+
+2020-08-19 10:10:15
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4108
+)
+
+2020-08-19 10:10:16
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4109
+)
+
+2020-08-19 10:10:17
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4110
+)
+
+2020-08-19 16:10:14
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4111
+)
+
+2020-08-19 16:10:16
+Array
+(
+    [0] => CLI
+    [POST] => Array
+        (
+        )
+
+    [GET] => Array
+        (
+        )
+
+    [status] => Success
+    [exception] => moodleuserid
+    [file] => ?
+    [line] => ?
+    [data] => 4112
+)
+

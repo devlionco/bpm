@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLDB PATH="mod/ptogo/db" VERSION="20150930" COMMENT="XMLDB file for Moodle mod/ptogo"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../../lib/xmldb/xmldb.xsd"
+>
+  <TABLES>
+    <TABLE NAME="ptogo_repository" COMMENT="saves all ptogo repositories">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="title" TYPE="text" NOTNULL="true" SEQUENCE="false" COMMENT="title of the repository"/>
+        <FIELD NAME="description" TYPE="text" NOTNULL="false" SEQUENCE="false" COMMENT="description of the ptogo repository"/>
+        <FIELD NAME="serverurl" TYPE="text" NOTNULL="true" SEQUENCE="false" COMMENT="URL at which the Presentations2Go server for this repository is located"/>
+        <FIELD NAME="secretkey" TYPE="text" NOTNULL="true" SEQUENCE="false" COMMENT="the secret key used to authorize and authenticate at the ptogo server"/>
+        <FIELD NAME="ptogo_group" TYPE="text" NOTNULL="true" SEQUENCE="false" COMMENT="which group will be used at the Presentations2Go server"/>
+        <FIELD NAME="basequery" TYPE="text" NOTNULL="false" SEQUENCE="false" COMMENT="the base restrictions"/>
+        <FIELD NAME="expiration" TYPE="int" LENGTH="20" NOTNULL="true" DEFAULT="0" SEQUENCE="false"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+    </TABLE>
+    <TABLE NAME="ptogo" COMMENT="settings for each video">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="repository_id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" COMMENT="id of the matching repository"/>
+        <FIELD NAME="video_id" TYPE="int" LENGTH="10" NOTNULL="false" SEQUENCE="false" COMMENT="id of the richmedia item(s), is used to determine which rich media recording has to be displayed if null it's a list."/>
+        <FIELD NAME="additional_query" TYPE="text" NOTNULL="false" SEQUENCE="false" COMMENT="this query gets combined with the repository query."/>
+        <FIELD NAME="title" TYPE="text" NOTNULL="true" SEQUENCE="false" COMMENT="title for the list of items or (multiple) items."/>
+        <FIELD NAME="course" TYPE="int" LENGTH="15" NOTNULL="false" SEQUENCE="false" COMMENT="courseID used in view.php"/>
+        <FIELD NAME="name" TYPE="text" NOTNULL="true" SEQUENCE="false"/>
+        <FIELD NAME="intro" TYPE="text" NOTNULL="false" SEQUENCE="false"/>
+        <FIELD NAME="introformat" TYPE="int" LENGTH="1" NOTNULL="true" DEFAULT="1" SEQUENCE="false"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+    </TABLE>
+    <TABLE NAME="ptogo_items" COMMENT="Save which items should be showed">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="video_id" TYPE="int" LENGTH="10" NOTNULL="true" SEQUENCE="false" COMMENT="to match the video table"/>
+        <FIELD NAME="item_id" TYPE="text" NOTNULL="true" SEQUENCE="false"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id"/>
+      </KEYS>
+    </TABLE>
+  </TABLES>
+</XMLDB>

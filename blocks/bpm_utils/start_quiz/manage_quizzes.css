@@ -1,0 +1,21 @@
+table#quizManager th {
+    text-align: center;
+}
+#quizManager tr:nth-child(even) {
+    background-color: #eaeaea;
+}
+#quizManager tr td {
+    padding: 10px;
+}
+.quiz_availability_status {
+    font-style: italic;
+}
+#quizManager button.startQuiz {
+    background-color: orange;
+    border: none;
+    border-radius: 6px;
+    padding: 10px 20px;
+    margin: 0 auto;
+    /*min-width: 200px;*/
+    font-weight: bold;
+}

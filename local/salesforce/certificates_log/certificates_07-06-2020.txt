@@ -1,0 +1,26 @@
+
+<div dir="rtl">
+
+<h3 style="margin-bottom:0"><a href="https://my.bpm-music.com/course/view.php?id=1072"><img src="https://my.bpm-music.com/local/BPM_pix/ak_favicon(5).ico" width="30" style="vertical-align:middle;margin-left:6px"></a><a href="https://eu15.salesforce.com/a001p000011eLBbAAM"><img src="https://eu15.salesforce.com/favicon.ico" width="30" style="vertical-align:middle;margin-left:6px"/></a>	סאונד א' - BSP דצמבר 19</h3>
+אבי יוסף - סטנדאלון - נכשל
+בוני גדסי - סטנדאלון - נכשל
+רואי בן חמו - סטנדאלון - נכשל
+גלעד אוחיון - סטנדאלון - נכשל
+טומי פנצירו - סטנדאלון - נכשל
+עמרי אברמזון - סטנדאלון - נכשל
+אור אליס - סטנדאלון - נכשל
+דן ארקין - סטנדאלון - נכשל
+גל רצאבי - סטנדאלון - נכשל
+אדן מאיר - סטנדאלון - נכשל
+אורי חורש - סטנדאלון - נכשל
+רן אלעטר - סטנדאלון - נכשל
+רובן טרחניאנץ - סטנדאלון - נכשל
+יהלי ראובן יפרח - סטנדאלון - נכשל
+יורי צור - סטנדאלון - נכשל
+רון עבדן - סטנדאלון - נכשל
+איל נאור - סטנדאלון - נכשל
+איתמר גליק - סטנדאלון - נכשל
+אייל כהן - סטנדאלון - נכשל
+אליה טלקר - סטנדאלון - נכשל
+
+<h3 style="margin-bottom:0"><a href="https://my.bpm-music.com/course/view.php?id=1038"><img src="https://my.bpm-music.com/local/BPM_pix/ak_favicon(5).ico" width="30" style="vertical-align:middle;margin-left:6px"></a><a href="https://eu15.salesforce.com/a001p000011eLAdAAM"><img src="https://eu15.salesforce.com/favicon.ico" width="30" style="vertical-align:middle;margin-left:6px"/></a>קומפוזיציה - BSP אוקטובר 18</h3>

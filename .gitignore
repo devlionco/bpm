@@ -44,3 +44,16 @@ composer.phar
 /lib/yuilib/*/*/*-coverage.js
 atlassian-ide-plugin.xml
 /node_modules/
+
+# external files 
+404.html
+Aviv
+bpm_common.php
+BPMMS
+Extra_content
+Extra_Content_file
+intercom.php
+update_courses_end_date.php
+.well-known
+local/BPM_pix
+

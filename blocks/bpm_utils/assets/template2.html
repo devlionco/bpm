@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<style>
+
+body {
+   display:table;
+   table-layout:fixed;
+   padding-top:0cm;
+   padding-bottom:0cm;
+   padding:0 auto;
+   height:auto;
+}
+body, #main {
+    font-family: "NarkissNewMFW";
+	width: 196mm;
+	height: 285mm;
+	font-weight:800;
+	margin:0;
+	}
+#main {
+	padding:3.5% 1% 1% 0;
+	margin: 0 auto;
+	overflow:hidden;
+	text-align:center;
+	position:absolute;
+	top:0;
+	bottom: 0;
+    right: 0;
+    left: 0;
+	
+}
+.borders {
+	margin:0 auto;
+	display:inline-block;
+	border-radius:1px;
+	width: 100%;
+	position: relative;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+	
+}
+#border1 {
+	border:4px solid #fbae16;
+	padding:1%;
+	height:98%;
+	width:98%;
+	margin: auto;
+}
+#border2 {
+	width:97%;
+	height:98%;
+	margin: auto;
+	border:4px solid #ee4060;
+	padding:1%;
+	position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+#border3 {
+	border:4px solid #00a9b4;
+	width:99%;
+	height:98%;
+	margin:auto;
+	padding:1% 0;
+	position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+#greyLogo {
+	position:absolute;
+	top:4%;
+	bottom:0;
+	left:-25px;
+	right:0;
+	margin:0 auto;
+	opacity: 0.3;
+}
+#footer {
+	position:absolute;
+	top:92%;
+	bottom:0;
+	left:0;
+	right:0;
+	margin:0 auto;
+}
+.text {
+	z-index:5;
+	text-align:center;
+	width:90%;
+	height:4em;
+	position:absolute;
+	top:15%;
+	bottom:0;
+	left:0;
+	right:0;
+	margin:0 auto;
+	font-size:2.3em;
+    white-space: nowrap; 
+    overflow: visible;
+}
+hr {
+	margin-top:1.5em;
+	margin-bottom:-.8em;
+	font-weight:800;
+	position: relative;
+    left: 0px;
+    right: 0;
+    border-color: grey;
+	width: 65%;
+}
+
+.courseName {
+	color:white;
+	background-color:#4d4d4d;
+	border-radius:12px;
+	padding:.2em .3em;
+	display:inline-block;
+	margin: 0 auto;
+	font-size:.9em;
+	margin-top: -0.8em;
+	min-width: 70%;
+	position: relative;
+    bottom: 20px;
+    height:1.2em;
+}
+.smallerLongText {
+    font-size: 0.7em;
+}
+#sigHr {
+	position: absolute;
+    top: 74.5%;
+    width: 20%;
+}
+#sigTitle {
+	font-weight: normal;
+    font-size: 1.5em;
+    position: absolute;
+    top: 76%;
+    width: 100%;
+}
+#sigAlpha {
+	position:absolute;
+	top: 71.5%;
+	left: 0;
+    right: 0;
+	margin: 0 auto;
+}
+#dateBox {
+	font-size:1.5em;
+	font-weight: normal;
+    width: 40%;
+    text-align: right;
+    position: absolute;
+    right: 0;
+    margin-right: 2.5em;
+	top:2em;
+}
+#dateBox p {
+	display:inline;
+}
+#dateLine {
+    position: relative;
+    bottom: 1.7em;
+    left: 0.4em;
+	width:45%;
+}
+#date {
+	position: relative;
+    left: -0.7em;
+}
+.studentName {
+    position: absolute;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
+.eng {
+    font-family: helvetica;
+}
+#studentHebrewName, #studentEnglishName {
+    position: relative;
+    bottom: 8px;
+}
+#courseHebrewName {
+    font-family: sans-serif;
+}
+</style>
+</head>
+<body>
+<div id="main">
+<div id="border1" class="borders">
+	<div id="border2" class="borders">
+		<div id="border3" class="borders">
+		<div id="dateBox">
+		<p>תאריך</p>
+		<p id="date"></p>
+		<hr id="dateLine">
+		</div>
+		<div class="text">
+			<p class="eng">This is to certify that</p>
+			<hr>
+			<p id="studentEnglishName" class="studentName eng2"></p>
+			<p class="eng" style="margin-top: 0.2em;">successfully completed</p>
+			<p id="courseEnglishName" class="courseName eng"></p>
+
+			<p style="margin-top: 0.4em;">וזאת לתעודה כי</p>
+			<hr>
+			<p id="studentHebrewName" class="studentName"></p>
+			<p style="margin-top: 0.2em;">סיים בהצלחה</p>
+			<p id="courseHebrewName" class="courseName"></p>
+		</div>		
+		</div>
+	</div>
+</div>
+<div id="signature">
+<hr id="sigHr">
+<p id="sigTitle">מנהל פדגוגי</p>
+<img id="sigAlpha" src="https://my.bpm-music.com/blocks/bpm_utils/assets/guysigalpha.png" width="130px"/>
+</div>
+<img id="greyLogo" src="https://my.bpm-music.com/blocks/bpm_utils/assets/logoNoTextBnW.png" width="800px"/>
+<img id="footer" src="https://my.bpm-music.com/local/BPM_pix/footer2018/footer_black.png" width="600px"/>
+</div>
+</body>

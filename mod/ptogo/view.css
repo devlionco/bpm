@@ -1,0 +1,43 @@
+﻿.displayItem {
+       margin-bottom: 3%;
+}
+
+.displayItemBlock
+{
+    display: inline-block;
+    margin-right:20px;
+    min-width:250px;
+}
+
+.metaData {
+    margin-bottom: 3%;
+}
+.metaData span {
+    font-size: small;
+}
+
+.Title
+{
+font-weight:bold;
+}
+
+.Contributor
+{
+font-weight:lighter;
+}
+
+.Publishdate
+{
+font-style:italic;
+}
+
+figure {
+    margin: 0px 0px 2% 0px;
+    padding: 0px;
+    display: inline-block;
+}
+
+figure img {
+    width: 100%;
+    height: auto;
+}

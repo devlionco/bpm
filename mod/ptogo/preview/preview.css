@@ -1,0 +1,24 @@
+#preview {
+    overflow-y: scroll;
+    height: 400px;
+}
+.preview-item {
+    width: 23%;
+    padding: 1%;
+    display: inline-block;
+}
+
+.preview-item--image {
+    width: 100%;
+    height: auto;
+}
+
+.preview-item--title {
+    font-size: 1.2em;
+    word-wrap: break-word;
+}
+
+.preview-item--select {
+    float: right;
+    margin-top: 3px !important;
+}

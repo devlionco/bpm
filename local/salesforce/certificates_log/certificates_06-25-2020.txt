@@ -1,0 +1,7 @@
+
+<div dir="rtl">
+
+<h3 style="margin-bottom:0"><a href="https://my.bpm-music.com/course/view.php?id=1236"><img src="https://my.bpm-music.com/local/BPM_pix/ak_favicon(5).ico" width="30" style="vertical-align:middle;margin-left:6px"></a><a href="https://eu15.salesforce.com/a001p000013Yh0qAAC"><img src="https://eu15.salesforce.com/favicon.ico" width="30" style="vertical-align:middle;margin-left:6px"/></a>סדנת קצב - BSP פברואר 20</h3>
+
+<h3 style="margin-bottom:0"><a href="https://my.bpm-music.com/course/view.php?id=950"><img src="https://my.bpm-music.com/local/BPM_pix/ak_favicon(5).ico" width="30" style="vertical-align:middle;margin-left:6px"></a><a href="https://eu15.salesforce.com/a001p00000xffrVAAQ"><img src="https://eu15.salesforce.com/favicon.ico" width="30" style="vertical-align:middle;margin-left:6px"/></a>תעשיית המוסיקה - EMP מאי 19 ערב</h3>
+no courses (+offset) to certify today

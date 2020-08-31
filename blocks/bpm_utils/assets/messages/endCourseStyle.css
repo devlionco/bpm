@@ -1,0 +1,360 @@
+        @-webkit-viewport {
+            width: device-width;
+        }
+        
+        @-moz-viewport {
+            width: device-width;
+        }
+        
+        @-ms-viewport {
+            width: device-width;
+        }
+        
+        @-o-viewport {
+            width: device-width;
+        }
+        
+        @viewport {
+            width: device-width;
+        }        
+        body,
+        #pageTable {
+            height: 100% !important;
+            margin: 0;
+            padding: 0;
+            width: 100% !important;
+  			font-family: arial, helvetica, sans-serif;
+        }
+        
+        img,
+        a img {
+            border: 0;
+            outline: none;
+            text-decoration: none;
+        }
+        
+        img {
+            -ms-interpolation-mode: bicubic;
+        }
+        
+        p {
+            margin: 1em 0;
+            padding: 0;
+            font-size: 16px;
+            line-height: inherit;
+        }  
+        
+        td p {
+            margin: 10px 0;
+            line-height: inherit;
+            font-family: arial, helvetica, sans-serif;
+            color: #000;
+        }
+        
+        a {
+            word-wrap: break-word;
+            color: #15b5cb;
+            font-weight: inherit;
+            text-decoration: underline;
+        }
+        .browserLink a {
+  			color: #5e5e5e;
+			font-size: 15px;
+        }
+  		.tags-footer a {
+  			color: #5e5e5e;
+  		}
+        .regularBox td {
+            word-break: break-word;
+            font-size: 16px;
+            line-height: 150%;
+            color: #000;
+        }
+        
+        .centered-button-container {
+            width: 100% !important;
+        }
+        
+        .ReadMsgBody,
+        .ExternalClass {
+            width: 100%;
+        }
+        
+        .ExternalClass,
+        .ExternalClass p,
+        .ExternalClass span,
+        .ExternalClass font,
+        .ExternalClass td,
+        .ExternalClass div {
+            line-height: 100%;
+        }
+        
+        body,
+        table,
+        td,
+        p,
+        a,
+        li,
+        blockquote {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+        
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            margin: 0;
+            padding: 0;
+        }
+        
+        h1 {
+            font-size: 26px;
+            line-height: 150%;
+            font-weight: normal;
+            font-family: arial, helvetica, sans-serif;
+            color: #000;
+        }
+        
+        h2 {
+            font-size: 24px;
+            line-height: 150%;
+            font-weight: normal;
+            font-family: arial, helvetica, sans-serif;
+            color: #000;
+        }
+        
+        h3 {
+            font-size: 20px;
+            font-weight: normal;
+            line-height: 150%;
+            color: #000;
+        }
+        
+        li {
+            margin: 0px;
+            padding: 0px;
+        }
+        
+        table,
+        td {
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+            font-size: 16px;            
+        }               
+        
+        table {
+            border-collapse: collapse;
+        }
+        
+        p,
+        a,
+        li,
+        td,
+        blockquote {
+            mso-line-height-rule: exactly;
+        }
+        
+        p,
+        a,
+        li,
+        td,
+        body,
+        table,
+        blockquote {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+        .bold {
+            font-weight:bold;
+        }
+        .singleCourseDetails {
+            border: 1px solid grey;
+            border-radius: 6px;
+            padding: 10px 30px;
+        }
+        .singleCourseDetails #courseName {
+            font-weight: bold;
+        }
+        ul *, ul.singleCourseDetails * {
+            color:white;
+        }
+        div#failureDetails, div#failureDetails * {
+            color:white;
+        }
+
+        @media only screen and (max-width: 480px) {
+            body,
+            table,
+            td,
+            p,
+            a,
+            li,
+            blockquote {
+                -webkit-text-size-adjust: none !important;
+            }
+            body {
+                width: 100% !important;
+                min-width: 100% !important;
+            }
+            h1 {
+                font-size: 24px !important;
+            }
+            h2 {
+                font-size: 22px !important;
+            }
+            h3 {
+                font-size: 18px !important;
+            }
+            h4 {
+                font-size: 16px !important;
+            }
+            h1,
+            h2,
+            h3,
+            h4 {
+                line-height: 125% !important;
+            }
+            p {
+                font-size: 16px;
+                line-height: 150%;
+            }
+
+            table.imageTable {
+                width: 100% !important;
+                max-width: 100% !important;
+                float: none !important;
+            }
+            table.imageTable td, div.ImageWrapper, table.GaleryContentTable {
+                padding: 0px !important;
+                width: 100% !important;
+                max-width: 100% !important;
+            }
+  			.GaleryContent table {margin:0 0 10px 0 !important;}  			
+            table.imageTable img,
+            div.ImageWrapper,
+            div.ImageWrapper img {
+                width: 100% !important;
+                height: auto !important;               
+            }
+            table.item_content,
+            div.ImageWrapper {
+                width: 100% !important;
+                display: block !important;
+                float: none !important;
+            }
+            table.item_content td {
+                padding: 10px 0px;
+            }
+            table.r_imagetextboxleft table {
+                margin: 10px 0px;
+                float: none !important;
+                width: 100% !important;
+            }
+            table.r_imagetextboxright table {
+                margin: 10px 0px;
+                float: none !important;
+                width: 100% !important;
+            }
+            table.socialfollow {
+                /*display:block !important;*/
+                float: none !important;
+                width: 100% !important;
+                max-width: 100% !important;
+            }
+            table.socialMainTable {
+                /*display:block !important;*/
+                float: none !important;
+                width: 100% !important;
+            }
+            .r_sale {
+                width: 100% !important;
+            }
+            .boxleft {
+                width: 100% !important;
+                float: none !important;
+                clear: both;
+                padding-right: 0px !important;
+                max-width: 100% !important;
+            }
+            .boxright {
+                width: 100% !important;
+                float: none !important;
+                clear: both;
+                max-width: 100% !important;
+            }
+            .tdleft {
+                width: 100% !important;
+            }
+            .tdright {
+                width: 100% !important;
+            }
+            .newheader img {
+                width: 100% !important;
+                height: auto !important;               
+            }
+            table.floatingElement {
+                width: 100% !important;
+                float: none !important;
+                display: block !important;
+                max-width: 100% !important;
+            }
+            table.floatingElement td {
+                width: 100% !important;
+                float: none !important;
+                display: block !important;
+                max-width: 100% !important;
+            }
+            table#preHeader {
+                font-size: 10px !important;
+            }
+            .iwEl,
+            .imageTextLeft,
+            .imageTextBox {
+                max-width: 100% !important;
+            }
+            .menuSize {
+                max-width: 100% !important;
+                width: 100% !important;
+            }
+            a.menuLink {
+                font-size: inherit;
+            }
+            table[class=containerTable],
+            table[class=iwContainer] {
+                max-width: 600px !important;
+                width: 100% !important;
+            }
+            table[class=iwEl],
+            table[id=mainTable] {
+                width: 100% !important;
+            }
+            td[class=columnsContainer] {
+                display: block !important;
+                max-width: 600px !important;
+                width: 100% !important;
+            }
+            .columnWrapper {
+                max-width: 100% !important;
+                width: 100% !important;
+            }
+            /* Fix for iPhone */
+            .buttonBoxA {
+                padding-left: 30px !important;
+                padding-right: 30px !important;
+            }
+            /* Fix the padding on r_sale4 in responsive mode */
+            table.r_sale4 table.boxright .newheader {
+                padding: 0px !important;
+            }
+            table.r_sale4 table.boxleft td.tdleft {
+                padding: 18px 0px 0px 0px !important;
+            }
+            /* Add padding to see the background-color */
+            td.campaignGlobalBGPadding {
+                padding: 10px !important;
+            }
+            
+        }

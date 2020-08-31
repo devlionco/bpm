@@ -1,0 +1,37 @@
+
+<div dir="rtl">
+
+<h3 style="margin-bottom:0"><a href="https://my.bpm-music.com/course/view.php?id=1227"><img src="https://my.bpm-music.com/local/BPM_pix/ak_favicon(5).ico" width="30" style="vertical-align:middle;margin-left:6px"></a><a href="https://eu15.salesforce.com/a001p000013ZDhTAAW"><img src="https://eu15.salesforce.com/favicon.ico" width="30" style="vertical-align:middle;margin-left:6px"/></a>אבלטון אפריל 20 - חיפה</h3>
+ערן כרמלי - נכשל
+סמי נגאש - נכשל
+איגור בנדיטקיס - עבר
+מיכאל מונטבולינסקי - עבר
+בר און חילים - נכשל
+שמעון ביטון - עבר
+יובל לחייני - עבר
+אופק דהן - נכשל
+גיא גבאי - עבר
+קורל דאוד - עבר
+סנדרה חיימוב - נכשל
+גל שימול - עבר
+תומר ג'וסמן - נכשל
+
+<h3 style="margin-bottom:0"><a href="https://my.bpm-music.com/course/view.php?id=1087"><img src="https://my.bpm-music.com/local/BPM_pix/ak_favicon(5).ico" width="30" style="vertical-align:middle;margin-left:6px"></a><a href="https://eu15.salesforce.com/a001p000011eLBMAA2"><img src="https://eu15.salesforce.com/favicon.ico" width="30" style="vertical-align:middle;margin-left:6px"/></a>סדנת שירים - זמר יוצר דצמבר 19</h3>
+<div dir="rtl">
+
+<h3 style="margin-bottom:0"><a href="https://my.bpm-music.com/course/view.php?id=1227"><img src="https://my.bpm-music.com/local/BPM_pix/ak_favicon(5).ico" width="30" style="vertical-align:middle;margin-left:6px"></a><a href="https://eu15.salesforce.com/a001p000013ZDhTAAW"><img src="https://eu15.salesforce.com/favicon.ico" width="30" style="vertical-align:middle;margin-left:6px"/></a>אבלטון אפריל 20 - חיפה</h3>
+ערן כרמלי - נכשל
+סמי נגאש - נכשל
+איגור בנדיטקיס - עבר
+מיכאל מונטבולינסקי - עבר
+בר און חילים - נכשל
+שמעון ביטון - עבר
+יובל לחייני - עבר
+אופק דהן - נכשל
+גיא גבאי - עבר
+קורל דאוד - עבר
+סנדרה חיימוב - נכשל
+גל שימול - עבר
+תומר ג'וסמן - נכשל
+
+<h3 style="margin-bottom:0"><a href="https://my.bpm-music.com/course/view.php?id=1087"><img src="https://my.bpm-music.com/local/BPM_pix/ak_favicon(5).ico" width="30" style="vertical-align:middle;margin-left:6px"></a><a href="https://eu15.salesforce.com/a001p000011eLBMAA2"><img src="https://eu15.salesforce.com/favicon.ico" width="30" style="vertical-align:middle;margin-left:6px"/></a>סדנת שירים - זמר יוצר דצמבר 19</h3>

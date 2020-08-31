@@ -1,0 +1,482 @@
+[05-Jan-2017 13:49:45 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[05-Jan-2017 13:49:45 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[05-Jan-2017 13:49:45 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:85) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 110
+[05-Jan-2017 14:02:05 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[05-Jan-2017 14:02:05 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[05-Jan-2017 14:02:05 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:85) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 110
+[05-Jan-2017 14:02:36 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[05-Jan-2017 14:02:36 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$firstname in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 59
+[05-Jan-2017 14:02:36 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$lastname in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 59
+[05-Jan-2017 14:02:36 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[05-Jan-2017 14:02:36 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[05-Jan-2017 14:02:36 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:28) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 110
+[05-Jan-2017 15:36:41 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[05-Jan-2017 15:36:41 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[05-Jan-2017 15:36:41 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[05-Jan-2017 15:36:41 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:28) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 110
+[05-Jan-2017 15:36:41 Asia/Jerusalem] Default exception handler: Exception - TCPDF ERROR: Some data has already been output, can't send PDF file Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7643 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 111 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[05-Jan-2017 15:48:23 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[05-Jan-2017 15:48:23 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$firstname in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 59
+[05-Jan-2017 15:48:23 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$lastname in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 59
+[05-Jan-2017 15:48:23 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[05-Jan-2017 15:48:23 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[05-Jan-2017 15:48:23 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:28) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 110
+[05-Jan-2017 15:48:23 Asia/Jerusalem] Default exception handler: TCPDF ERROR: Some data has already been output, can't send PDF file  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7643 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 111 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[05-Jan-2017 15:53:28 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[05-Jan-2017 15:53:28 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[05-Jan-2017 15:53:28 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[05-Jan-2017 15:53:28 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:28) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 110
+[05-Jan-2017 15:53:28 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:28) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[05-Jan-2017 15:53:28 Asia/Jerusalem] Default exception handler: Exception - TCPDF ERROR: Some data has already been output to browser, can't send PDF file Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7647 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 111 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[05-Jan-2017 15:56:57 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[05-Jan-2017 15:56:57 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[05-Jan-2017 15:56:57 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[05-Jan-2017 15:56:57 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:28) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 110
+[05-Jan-2017 15:56:57 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:28) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[05-Jan-2017 15:56:57 Asia/Jerusalem] Default exception handler: Exception - TCPDF ERROR: Some data has already been output to browser, can't send PDF file Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7647 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 111 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[05-Jan-2017 16:00:44 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[05-Jan-2017 16:00:44 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[05-Jan-2017 16:00:44 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[05-Jan-2017 16:00:44 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:28) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 110
+[05-Jan-2017 16:00:44 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:28) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[05-Jan-2017 16:00:44 Asia/Jerusalem] Default exception handler: Exception - TCPDF ERROR: Some data has already been output to browser, can't send PDF file Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7647 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 112 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[05-Jan-2017 16:20:14 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[05-Jan-2017 16:20:14 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$firstname in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 59
+[05-Jan-2017 16:20:14 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$lastname in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 59
+[05-Jan-2017 16:20:14 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[05-Jan-2017 16:20:14 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[05-Jan-2017 16:20:14 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:28) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 110
+[05-Jan-2017 16:20:14 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:28) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[05-Jan-2017 16:20:14 Asia/Jerusalem] Default exception handler: TCPDF ERROR: Some data has already been output to browser, can't send PDF file  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7647 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 112 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[05-Jan-2017 16:28:22 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[05-Jan-2017 16:28:22 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[05-Jan-2017 16:28:22 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[05-Jan-2017 16:28:22 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:28) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 111
+[05-Jan-2017 16:28:22 Asia/Jerusalem] Default exception handler: Exception - TCPDF ERROR: Some data has already been output, can't send PDF file Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7643 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 112 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[05-Jan-2017 16:28:51 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[05-Jan-2017 16:28:51 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[05-Jan-2017 16:28:51 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[05-Jan-2017 16:28:51 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:28) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 111
+[05-Jan-2017 16:28:51 Asia/Jerusalem] Default exception handler: Exception - TCPDF ERROR: Some data has already been output, can't send PDF file Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7643 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 112 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[05-Jan-2017 17:07:28 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[05-Jan-2017 17:07:28 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[05-Jan-2017 17:07:28 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[05-Jan-2017 17:07:28 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:28) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[05-Jan-2017 17:07:28 Asia/Jerusalem] Default exception handler: Exception - TCPDF ERROR: Some data has already been output to browser, can't send PDF file Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7647 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 111 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[05-Jan-2017 17:07:36 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[05-Jan-2017 17:07:36 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[05-Jan-2017 17:07:36 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[05-Jan-2017 17:07:36 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:28) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[05-Jan-2017 17:07:36 Asia/Jerusalem] Default exception handler: Exception - TCPDF ERROR: Some data has already been output to browser, can't send PDF file Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7647 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 111 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[05-Jan-2017 17:12:16 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[05-Jan-2017 17:12:16 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[05-Jan-2017 17:12:16 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[05-Jan-2017 17:12:17 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:28) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[05-Jan-2017 17:12:17 Asia/Jerusalem] Default exception handler: Exception - TCPDF ERROR: Some data has already been output to browser, can't send PDF file Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7647 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 111 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[05-Jan-2017 17:20:42 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[05-Jan-2017 17:20:42 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[05-Jan-2017 17:20:42 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[05-Jan-2017 17:20:42 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:28) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 111
+[05-Jan-2017 17:20:42 Asia/Jerusalem] Default exception handler: Exception - TCPDF ERROR: Some data has already been output, can't send PDF file Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7643 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 112 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[08-Jan-2017 09:16:30 UTC] PHP Fatal error:  Class 'Memcache' not found in /home/mybpmmusic/public_html/moodle31/cache/stores/memcache/lib.php on line 180
+[08-Jan-2017 09:31:35 UTC] PHP Fatal error:  Class 'Memcache' not found in /home/mybpmmusic/public_html/moodle31/cache/stores/memcache/lib.php on line 180
+[08-Jan-2017 12:45:08 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[08-Jan-2017 12:45:08 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$firstname in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 59
+[08-Jan-2017 12:45:08 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$lastname in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 59
+[08-Jan-2017 12:45:08 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[08-Jan-2017 12:45:08 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[08-Jan-2017 12:45:08 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:28) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 111
+[08-Jan-2017 12:45:08 Asia/Jerusalem] Default exception handler: TCPDF ERROR: Some data has already been output, can't send PDF file  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7643 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 112 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[08-Jan-2017 12:47:27 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[08-Jan-2017 12:47:27 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$firstname in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 59
+[08-Jan-2017 12:47:27 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$lastname in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 59
+[08-Jan-2017 12:47:27 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[08-Jan-2017 12:47:27 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[08-Jan-2017 12:47:27 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:28) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 110
+[08-Jan-2017 12:47:27 Asia/Jerusalem] Default exception handler: TCPDF ERROR: Some data has already been output, can't send PDF file  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7643 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 111 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[08-Jan-2017 11:24:38 UTC] PHP Warning:  require_once(tcpdf_include.php): failed to open stream: No such file or directory in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[08-Jan-2017 11:24:38 UTC] PHP Fatal error:  require_once(): Failed opening required 'tcpdf_include.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[08-Jan-2017 11:24:48 UTC] PHP Warning:  require_once(tcpdf_include.php): failed to open stream: No such file or directory in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[08-Jan-2017 11:24:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'tcpdf_include.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[08-Jan-2017 11:59:56 UTC] PHP Warning:  require_once(tcpdf_include.php): failed to open stream: No such file or directory in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[08-Jan-2017 11:59:56 UTC] PHP Fatal error:  require_once(): Failed opening required 'tcpdf_include.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[08-Jan-2017 12:00:03 UTC] PHP Warning:  require_once(tcpdf_include.php): failed to open stream: No such file or directory in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[08-Jan-2017 12:00:03 UTC] PHP Fatal error:  require_once(): Failed opening required 'tcpdf_include.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[08-Jan-2017 14:02:50 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[08-Jan-2017 14:02:50 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[08-Jan-2017 14:02:50 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:85) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 110
+[08-Jan-2017 14:02:51 Asia/Jerusalem] Default exception handler: TCPDF ERROR: Some data has already been output, can't send PDF file  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7643 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 111 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[08-Jan-2017 14:03:00 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[08-Jan-2017 14:03:00 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[08-Jan-2017 14:03:00 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:85) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 110
+[08-Jan-2017 14:03:00 Asia/Jerusalem] Default exception handler: TCPDF ERROR: Some data has already been output, can't send PDF file  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7643 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 111 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[08-Jan-2017 14:09:07 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[08-Jan-2017 14:09:07 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[08-Jan-2017 14:09:07 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:85) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 111
+[08-Jan-2017 14:09:07 Asia/Jerusalem] Default exception handler: TCPDF ERROR: Some data has already been output, can't send PDF file  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7643 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 112 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[08-Jan-2017 14:13:13 Asia/Jerusalem] PHP Notice:  Use of undefined constant _DIR_ - assumed '_DIR_' in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 48
+[08-Jan-2017 14:13:13 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[08-Jan-2017 14:13:13 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[08-Jan-2017 14:13:13 Asia/Jerusalem] Default exception handler: TCPDF ERROR: [Image] Unable to get the size of the image: _DIR_/img/logo-head.png  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 6884 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 18891 of /lib/tcpdf/tcpdf.php: call to TCPDF->Image()
+* line 18278 of /lib/tcpdf/tcpdf.php: call to TCPDF->openHTMLTagHandler()
+* line 5828 of /lib/tcpdf/tcpdf.php: call to TCPDF->writeHTML()
+* line 18210 of /lib/tcpdf/tcpdf.php: call to TCPDF->MultiCell()
+* line 103 of /blocks/study_validation/tcpdf.php: call to TCPDF->writeHTML()
+
+[08-Jan-2017 14:13:54 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[08-Jan-2017 14:13:54 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[08-Jan-2017 14:13:54 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:85) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 111
+[08-Jan-2017 14:13:54 Asia/Jerusalem] Default exception handler: TCPDF ERROR: Some data has already been output, can't send PDF file  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7643 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 112 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[08-Jan-2017 14:14:04 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[08-Jan-2017 14:14:04 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[08-Jan-2017 14:14:04 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:85) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 111
+[08-Jan-2017 14:14:04 Asia/Jerusalem] Default exception handler: TCPDF ERROR: Some data has already been output, can't send PDF file  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7643 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 112 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[08-Jan-2017 14:16:27 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[08-Jan-2017 14:16:27 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[08-Jan-2017 14:16:27 Asia/Jerusalem] Default exception handler: TCPDF ERROR: [Image] Unable to get the size of the image: \\./img/logo-head.png  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 6884 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 18891 of /lib/tcpdf/tcpdf.php: call to TCPDF->Image()
+* line 18278 of /lib/tcpdf/tcpdf.php: call to TCPDF->openHTMLTagHandler()
+* line 5828 of /lib/tcpdf/tcpdf.php: call to TCPDF->writeHTML()
+* line 18210 of /lib/tcpdf/tcpdf.php: call to TCPDF->MultiCell()
+* line 103 of /blocks/study_validation/tcpdf.php: call to TCPDF->writeHTML()
+
+[08-Jan-2017 14:17:26 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[08-Jan-2017 14:17:26 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[08-Jan-2017 14:17:26 Asia/Jerusalem] Default exception handler: TCPDF ERROR: [Image] Unable to get the size of the image: study_validation/img/logo-head.png  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 6884 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 18891 of /lib/tcpdf/tcpdf.php: call to TCPDF->Image()
+* line 18278 of /lib/tcpdf/tcpdf.php: call to TCPDF->openHTMLTagHandler()
+* line 5828 of /lib/tcpdf/tcpdf.php: call to TCPDF->writeHTML()
+* line 18210 of /lib/tcpdf/tcpdf.php: call to TCPDF->MultiCell()
+* line 103 of /blocks/study_validation/tcpdf.php: call to TCPDF->writeHTML()
+
+[08-Jan-2017 14:18:56 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[08-Jan-2017 14:18:56 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[08-Jan-2017 14:18:56 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:85) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 111
+[08-Jan-2017 14:18:56 Asia/Jerusalem] Default exception handler: TCPDF ERROR: Some data has already been output, can't send PDF file  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7643 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 112 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[08-Jan-2017 14:20:33 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[08-Jan-2017 14:20:33 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[08-Jan-2017 14:20:33 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:85) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[08-Jan-2017 14:20:33 Asia/Jerusalem] Default exception handler: TCPDF ERROR: Some data has already been output to browser, can't send PDF file  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7647 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 112 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[08-Jan-2017 14:21:18 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 84
+[08-Jan-2017 14:21:18 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 101
+[08-Jan-2017 14:21:18 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:84) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[08-Jan-2017 14:21:18 Asia/Jerusalem] Default exception handler: TCPDF ERROR: Some data has already been output to browser, can't send PDF file  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7647 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 111 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[08-Jan-2017 14:23:47 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 84
+[08-Jan-2017 14:23:47 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 101
+[08-Jan-2017 14:23:47 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:84) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[08-Jan-2017 14:23:47 Asia/Jerusalem] Default exception handler: TCPDF ERROR: Some data has already been output to browser, can't send PDF file  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7647 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 111 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[08-Jan-2017 12:26:54 UTC] PHP Parse error:  syntax error, unexpected '$pdf' (T_VARIABLE) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 104
+[08-Jan-2017 12:27:05 UTC] PHP Parse error:  syntax error, unexpected '$pdf' (T_VARIABLE) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 104
+[08-Jan-2017 12:27:10 UTC] PHP Parse error:  syntax error, unexpected '$pdf' (T_VARIABLE) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 104
+[08-Jan-2017 14:27:22 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[08-Jan-2017 14:27:22 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[08-Jan-2017 14:27:22 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[08-Jan-2017 14:27:22 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:28) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[08-Jan-2017 14:27:22 Asia/Jerusalem] Default exception handler: TCPDF ERROR: Some data has already been output to browser, can't send PDF file  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7647 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 113 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[08-Jan-2017 14:27:52 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[08-Jan-2017 14:27:52 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:85) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[08-Jan-2017 14:27:52 Asia/Jerusalem] Default exception handler: TCPDF ERROR: Some data has already been output to browser, can't send PDF file  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7647 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 113 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[08-Jan-2017 15:36:39 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[08-Jan-2017 15:36:40 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:102) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[08-Jan-2017 15:36:40 Asia/Jerusalem] Default exception handler: TCPDF ERROR: Some data has already been output to browser, can't send PDF file  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7647 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 112 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[08-Jan-2017 15:40:42 Asia/Jerusalem] PHP Fatal error:  Call to undefined function file_put_content() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 13
+[08-Jan-2017 15:41:45 Asia/Jerusalem] PHP Fatal error:  Call to undefined method TCPDF::addTTFfont() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 13
+[08-Jan-2017 15:43:20 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[08-Jan-2017 15:43:20 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 106
+[08-Jan-2017 15:43:20 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:102) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 111
+[08-Jan-2017 15:43:20 Asia/Jerusalem] Default exception handler: TCPDF ERROR: Some data has already been output, can't send PDF file  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7643 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 112 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[08-Jan-2017 15:44:22 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[08-Jan-2017 15:44:22 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:102) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 112
+[08-Jan-2017 15:44:23 Asia/Jerusalem] Default exception handler: TCPDF ERROR: Some data has already been output, can't send PDF file  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7643 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 113 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[08-Jan-2017 16:16:37 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[08-Jan-2017 16:16:37 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:102) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 112
+[08-Jan-2017 16:16:37 Asia/Jerusalem] Default exception handler: TCPDF ERROR: Some data has already been output, can't send PDF file  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7643 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 113 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[08-Jan-2017 16:17:03 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[08-Jan-2017 16:17:03 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 107
+[08-Jan-2017 16:17:03 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:102) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 112
+[08-Jan-2017 16:17:03 Asia/Jerusalem] Default exception handler: TCPDF ERROR: Some data has already been output, can't send PDF file  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7643 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 113 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[11-Jan-2017 13:44:40 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[11-Jan-2017 13:44:40 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:102) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 112
+[11-Jan-2017 13:44:40 Asia/Jerusalem] Default exception handler: Exception - TCPDF ERROR: Some data has already been output, can't send PDF file Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7643 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 113 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[12-Jan-2017 13:45:11 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[12-Jan-2017 13:45:11 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[12-Jan-2017 13:45:11 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:28) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 112
+[12-Jan-2017 13:45:11 Asia/Jerusalem] Default exception handler: Exception - TCPDF ERROR: Some data has already been output, can't send PDF file Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7643 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 113 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[12-Jan-2017 13:45:30 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[12-Jan-2017 13:45:30 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[12-Jan-2017 13:45:30 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:28) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 112
+[12-Jan-2017 13:45:30 Asia/Jerusalem] Default exception handler: Exception - TCPDF ERROR: Some data has already been output, can't send PDF file Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7643 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 113 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[12-Jan-2017 13:50:42 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[12-Jan-2017 13:50:42 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:102) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 112
+[12-Jan-2017 13:50:43 Asia/Jerusalem] Default exception handler: TCPDF ERROR: Some data has already been output, can't send PDF file  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7643 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 113 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[12-Jan-2017 15:59:42 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[12-Jan-2017 15:59:43 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:102) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 112
+[12-Jan-2017 15:59:43 Asia/Jerusalem] Default exception handler: TCPDF ERROR: Some data has already been output, can't send PDF file  הודעת שגיאה חריגה Debug: 
+Error code: generalexceptionmessage
+* line 2927 of /lib/tcpdf/tcpdf.php: Exception thrown
+* line 7643 of /lib/tcpdf/tcpdf.php: call to TCPDF->Error()
+* line 113 of /blocks/study_validation/tcpdf.php: call to TCPDF->Output()
+
+[15-Jan-2017 15:16:39 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[15-Jan-2017 15:16:39 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:102) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[15-Jan-2017 15:17:33 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[15-Jan-2017 15:17:33 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:102) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[15-Jan-2017 15:18:03 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[15-Jan-2017 15:18:03 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:102) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[15-Jan-2017 15:18:21 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:110) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[15-Jan-2017 13:20:19 UTC] PHP Warning:  require_once(tcpdf_include.php): failed to open stream: No such file or directory in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[15-Jan-2017 13:20:19 UTC] PHP Fatal error:  require_once(): Failed opening required 'tcpdf_include.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[15-Jan-2017 13:20:28 UTC] PHP Warning:  require_once(tcpdf_include.php): failed to open stream: No such file or directory in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[15-Jan-2017 13:20:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'tcpdf_include.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 28
+[15-Jan-2017 15:21:14 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[15-Jan-2017 15:21:14 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:102) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[15-Jan-2017 15:30:53 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[15-Jan-2017 15:30:53 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:102) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[15-Jan-2017 15:31:20 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[15-Jan-2017 15:31:20 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:102) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7624
+[15-Jan-2017 15:34:00 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[15-Jan-2017 15:35:47 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[15-Jan-2017 15:35:47 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:102) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 112
+[15-Jan-2017 15:38:28 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:112) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[15-Jan-2017 15:38:46 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:110) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[15-Jan-2017 15:38:58 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:110) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7624
+[15-Jan-2017 15:44:23 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:110) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7624
+[15-Jan-2017 15:44:53 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:110) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7624
+[15-Jan-2017 15:45:20 Asia/Jerusalem] PHP Notice:  ob_flush(): failed to flush buffer. No buffer to flush in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 113
+[15-Jan-2017 15:45:20 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:110) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7624
+[15-Jan-2017 15:46:07 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:110) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 114
+[15-Jan-2017 15:46:38 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:110) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 115
+[15-Jan-2017 15:47:04 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:110) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 115
+[15-Jan-2017 15:47:04 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:110) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7624
+[15-Jan-2017 15:47:38 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:113) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7624
+[15-Jan-2017 15:49:18 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[15-Jan-2017 15:49:18 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[15-Jan-2017 15:49:18 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:85) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 110
+[15-Jan-2017 15:49:38 Asia/Jerusalem] PHP Notice:  Undefined variable: html_foot in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 85
+[15-Jan-2017 15:49:38 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[15-Jan-2017 15:49:38 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:85) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 110
+[15-Jan-2017 15:49:38 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:85) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[15-Jan-2017 15:50:01 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:113) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7624
+[15-Jan-2017 15:50:22 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 100
+[15-Jan-2017 15:50:22 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:100) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 110
+[15-Jan-2017 15:50:22 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:100) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7624
+[15-Jan-2017 15:51:02 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:113) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7624
+[15-Jan-2017 15:51:35 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:113) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[15-Jan-2017 15:51:55 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:113) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[15-Jan-2017 15:52:54 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 101
+[15-Jan-2017 15:52:54 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:101) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 110
+[15-Jan-2017 15:52:54 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:101) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[15-Jan-2017 16:00:32 Asia/Jerusalem] PHP Warning:  file_get_contents(../../blocks/study_validation/img/foot.png): failed to open stream: No such file or directory in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 112
+[15-Jan-2017 14:08:15 UTC] PHP Parse error:  syntax error, unexpected '''' (T_CONSTANT_ENCAPSED_STRING) in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 25
+[15-Jan-2017 16:37:09 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[15-Jan-2017 16:37:09 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:102) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[15-Jan-2017 16:37:30 Asia/Jerusalem] PHP Notice:  Undefined variable: footer_logo_html in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 102
+[15-Jan-2017 16:37:31 Asia/Jerusalem] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php:102) in /home/mybpmmusic/public_html/moodle31/lib/tcpdf/tcpdf.php on line 7645
+[27-Jun-2017 19:30:00 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[27-Jun-2017 22:30:00 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 29
+[27-Jun-2017 22:30:00 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[16-Jul-2017 11:29:54 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 29
+[16-Jul-2017 11:29:54 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$firstname in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 60
+[16-Jul-2017 11:29:54 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$lastname in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 60
+[16-Jul-2017 11:29:54 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[31-Aug-2017 15:43:57 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$end_date in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 98
+[01-Sep-2017 10:09:19 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 29
+[01-Sep-2017 10:09:19 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$firstname in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 60
+[01-Sep-2017 10:09:19 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$lastname in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 60
+[01-Sep-2017 10:09:19 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[01-Sep-2017 17:04:12 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 29
+[01-Sep-2017 17:04:12 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$firstname in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 60
+[01-Sep-2017 17:04:12 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$lastname in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 60
+[01-Sep-2017 17:04:12 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[01-Sep-2017 18:40:05 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 29
+[01-Sep-2017 18:40:05 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$firstname in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 60
+[01-Sep-2017 18:40:05 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$lastname in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 60
+[01-Sep-2017 18:40:05 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[05-Sep-2017 12:03:47 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 29
+[05-Sep-2017 12:03:47 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$firstname in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 60
+[05-Sep-2017 12:03:47 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$lastname in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 60
+[05-Sep-2017 12:03:47 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[01-Oct-2017 21:13:38 Asia/Jerusalem] PHP Notice:  Undefined index: courses in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 29
+[01-Oct-2017 21:13:38 Asia/Jerusalem] PHP Warning:  Invalid argument supplied for foreach() in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 87
+[07-Nov-2017 10:42:56 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$firstname in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 60
+[07-Nov-2017 10:42:56 Asia/Jerusalem] PHP Notice:  Undefined property: stdClass::$lastname in /home/mybpmmusic/public_html/moodle31/blocks/study_validation/tcpdf.php on line 60

@@ -1,0 +1,1055 @@
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '27734' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '27734' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '27734' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '27734' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '27734' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '27734' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '27734' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '27734' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '27734' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '27734' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '27734' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '27734' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '27734' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '27734' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '27734' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '27734' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '27734' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '27734' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '27734' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38629' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38629' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38629' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38629' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38629' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38629' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38629' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38629' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38629' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38629' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38629' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38629' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38629' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38629' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38629' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38629' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38629' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38629' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '28475' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '28475' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '28475' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '28475' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '28475' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '28475' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '28475' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '28475' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '28475' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '28475' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '28475' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '28475' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '28475' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '28475' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '28475' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '28475' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '28475' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '28475' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '28475' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41209' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41209' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41209' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41209' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41209' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41209' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41209' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41209' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41209' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41209' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41209' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41209' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41209' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41209' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41209' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41209' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41701' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41701' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41701' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41701' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41701' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41701' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41701' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41701' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41701' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34152' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34152' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34152' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34152' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34152' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34152' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34152' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34152' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34152' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34152' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34152' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34152' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34152' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '36251' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '36251' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '36251' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '36251' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '36251' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '36251' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '36251' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '36251' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '36251' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '33335' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '33335' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '33335' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '33335' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '33335' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '33335' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '33335' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '33335' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '33335' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '33335' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '33335' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '33335' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '33335' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '33335' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '33335' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '33335' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '33335' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '33335' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '33335' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34171' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34171' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34171' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34171' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34171' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34171' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34171' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34171' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34171' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34171' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34171' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34171' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34171' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34171' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34171' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34171' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34171' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34493' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34493' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34493' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34493' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34493' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34493' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34493' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34493' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34493' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34493' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34493' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34493' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34493' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34493' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34493' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34493' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34493' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34493' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34493' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34493' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34696' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34696' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34696' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34696' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34696' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34696' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34696' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34696' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34696' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34696' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34696' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34696' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34696' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34696' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34696' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34696' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34696' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34696' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34696' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34696' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34850' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34850' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34850' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34850' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34850' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34850' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34850' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34850' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34850' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34850' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34850' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34850' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34850' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34850' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34850' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34850' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '34850' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '35240' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '35240' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '35240' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '35240' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '35240' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '35240' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '35240' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '35240' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '35240' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '35240' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '35240' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '35240' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '35240' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '35240' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41442' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41442' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41442' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41442' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41442' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41442' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41442' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41442' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41442' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '41442' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38238' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38238' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38238' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38238' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38238' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38238' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38238' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38238' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38238' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38238' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38238' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38238' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38238' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38238' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38238' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38238' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38238' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38238' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38238' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38238' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38305' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38305' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38305' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38305' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38305' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38305' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38305' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38305' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38343' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38343' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38343' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38343' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38343' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38343' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38343' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38343' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38343' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38343' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38343' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38343' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38343' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38343' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Did you remember to make the first column something unique in your call to get_records? Duplicate value '38343' found in column 'id'.* line 1103 of /lib/dml/mysqli_native_moodle_database.php: call to debugging()
+* line 29 of /local/absencenotice/absence_notice_engine.php: call to mysqli_native_moodle_database->get_records_sql()
+* line 9 of /local/absencenotice/absence_notice_engine.php: call to bpm_process_attendance_missed()
+ in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[05-Aug-2020 07:00:02 Asia/Jerusalem] PHP Notice:  Undefined offset: 6 in /home/mybpmmusic/public_html/moodle31/local/absencenotice/classes/utils.php on line 67
+[05-Aug-2020 07:00:05 Asia/Jerusalem] PHP Notice:  Undefined offset: 6 in /home/mybpmmusic/public_html/moodle31/local/absencenotice/classes/utils.php on line 67
+[05-Aug-2020 07:00:07 Asia/Jerusalem] PHP Notice:  Undefined offset: 6 in /home/mybpmmusic/public_html/moodle31/local/absencenotice/classes/utils.php on line 67

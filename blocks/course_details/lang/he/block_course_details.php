@@ -1,0 +1,37 @@
+<?php
+$string['pluginname'] = 'בלוק פרטי קורס';
+$string['course_details'] = 'פרטי קורס';
+$string['course_details:addinstance'] = 'הוסף בלוק פרטי קורס חדש';
+$string['course_details:myaddinstance'] = 'הוסף בלוק פרטי קורס למודל שלי';
+$string['open_to_sale'] = 'פתוח למכירה';
+$string['meetings_amount'] = 'מספר מפגשים';
+$string['several_days'] = 'מספר שעות';
+$string['capacity_classroom'] = 'קיבולת:';
+$string['update'] = 'עדכן';
+$string['end_date'] = 'סיום הקורס';
+$string['room_name'] = 'שם כיתה:';
+$string['room_number'] = 'מספר כיתה:';
+$string['choose_class'] = 'בחר כיתה';
+$string['reset_class'] = 'אפס כיתה';
+$string['num_class'] = 'מספר כיתה';
+$string['class_name'] = 'שם כיתה';
+$string['class_place'] = 'מיקום כיתה';
+$string['class_capacity'] = 'קיבולת כיתה';
+$string['class_list'] = 'לרשימת הכיתות';
+$string['new_class'] = 'הוסף כיתה';
+$string['add'] = 'הוסף כיתה';
+$string['remove'] = 'הסר כיתה';
+$string['classrooms_list'] = 'רשימת הכיתות';
+$string['numeric'] = 'מספרי';
+$string['edit_classroom'] = 'עריכת כיתות';
+$string['succsed'] = 'הצליח';
+$string['error'] = 'שגיאה';
+$string['master_course'] = 'קורס אב';
+$string['max_students'] = 'מקסימום משתתפים';
+$string['classes'] = 'כיתות';
+$string['update_classroom'] = 'עדכן כיתה';
+$string['create_classroom_succsed'] = 'הכיתה נוצרה בהצלחה';
+$string['remove_classroom_succsed'] = 'הכיתה נמחקה בהצלחה';
+$string['update_classroom_succsed'] = 'פרטי הכיתה עודכנו בהצלחה';
+$string['need_insert_all'] = 'יש למלא את כל שדות החובה';
+

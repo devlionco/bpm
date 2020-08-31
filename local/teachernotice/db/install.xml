@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XMLDB PATH="local/teachernotice/db" VERSION="2017030700" COMMENT="XMLDB file for Moodle local/teachernotice"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../../../lib/xmldb/xmldb.xsd">
+  <TABLES>
+  	<TABLE NAME="local_teacher_notice" COMMENT="Keeps track of notices to teachers">
+      <FIELDS>
+        <FIELD NAME="id" TYPE="bigint" LENGTH="10" NOTNULL="true" SEQUENCE="true"/>
+        <FIELD NAME="courseid" TYPE="bigint" LENGTH="10" NOTNULL="true" SEQUENCE="false"/>
+        <FIELD NAME="teacherid" TYPE="bigint" LENGTH="10" NOTNULL="true" SEQUENCE="false"/>
+        <FIELD NAME="assignmentid" TYPE="bigint" LENGTH="10" NOTNULL="true" SEQUENCE="false"/>
+        <FIELD NAME="type" TYPE="tinyint" LENGTH="1" NOTNULL="true" SEQUENCE="false"/>
+        <FIELD NAME="count" TYPE="tinyint" LENGTH="1" NOTNULL="true" DEFAULT="0" SEQUENCE="false"/>
+        <FIELD NAME="lastnoticedate" TYPE="bigint" LENGTH="10" NOTNULL="true" SEQUENCE="false" COMMENT="The last time a teacher was notified about this assignment"/>
+        <FIELD NAME="originaldate" TYPE="bigint" LENGTH="10" NOTNULL="true" SEQUENCE="false" COMMENT="The original due-date of the assignment"/>
+      </FIELDS>
+      <KEYS>
+        <KEY NAME="primary" TYPE="primary" FIELDS="id" COMMENT="The unique id for each teacher notice record"/>
+      </KEYS>
+    </TABLE>
+ </TABLES>
+</XMLDB>

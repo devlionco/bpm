@@ -1,0 +1,83 @@
+/* Chart bars */
+.ct-chart .ct-series.ct-series-a .ct-bar {
+  stroke: #00AAB5;
+  stroke-width: 30
+}
+.ct-chart .ct-series.ct-series-b .ct-bar {
+  stroke: #FBAE17;
+  stroke-width: 30
+}
+.ct-label.ct-horizontal {
+    font-size: 1em;
+}
+.ct-chart.ct-square {
+    display: inline-block;
+}
+.student-chart-block {
+    float: right;
+    display: grid;
+}
+.student-chart-cell {
+    margin: 0 20px 0 20px;
+}
+.student-gauge-block {
+    display:inline-block;
+    width:250px;
+}
+.student-gauge-cell {
+    display: inline-block;
+    margin: 0 -23px 20px 20px;
+    position: relative;
+    bottom: 10px;
+}
+.student-gauge-title {
+    margin: 3px 0 30px 0;
+    font-size: 1.25rem;
+    font-weight: 500;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+#overall-textfield{
+  text-align: center; font-size: 2em; font-weight: bold;
+  color: black; font-family: 'Amaranth', sans-serif;
+}
+#attendance-textfield{
+  text-align: center; font-size: 2em; font-weight: bold;
+  color: black; font-family: 'Amaranth', sans-serif;
+}
+
+/* Tooltip */
+.chartist-tooltip {
+  position: absolute;
+  display: inline-block;
+  opacity: 0;
+  min-width: 4em;
+  padding: .3em;
+  background: #EEEEEE;
+  color: #453D3F;
+  font-family: Oxygen,Helvetica,Arial,sans-serif;
+  font-weight: 700;
+  text-align: center;
+  border-radius: 10px;
+  pointer-events: none;
+  z-index: 1;
+  -webkit-transition: opacity .1s linear;
+  -moz-transition: opacity .1s linear;
+  -o-transition: opacity .1s linear;
+  transition: opacity .1s linear; }
+  .chartist-tooltip:before {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    margin-left: -15px;
+    border: 15px solid transparent;
+    border-top-color: #EEEEEE; }
+  .chartist-tooltip.tooltip-show {
+    opacity: 1; }
+
+.ct-area, .ct-line {
+  pointer-events: none; }
