@@ -216,6 +216,7 @@ M.format_grid.grid_toggle = function() {
             // Keyboard control of 'toggle' in 'One section per page' layout.
             location.assign(this.section_redirect + "&section=" + this.selected_section_no);
         } else if (M.format_grid.shadebox.shadebox_open === true) {
+            this.bpm_stop_videos();
             this.shadebox.toggle_shadebox();
         } else {
             this.change_shown();
@@ -252,6 +253,7 @@ M.format_grid.next_section = function() {
 M.format_grid.change_selected_section = function(increase_section) {
     "use strict";
     if (this.selected_section_no != -1) { // Then a valid shown section has been selected.
+        this.bpm_stop_videos();
         this.set_selected_section(this.selected_section_no, increase_section, false);
         if (M.format_grid.shadebox.shadebox_open === true) {
             this.change_shown();
@@ -474,4 +476,19 @@ M.format_grid.shadebox.get_page_height = function() {
     }
 
     return pageHeight;
+};
+
+/**
+ * Resets all video sources to "stop" videos from playing
+ *
+ * Author Ben Laor - BPM.
+ */
+// Reset all video sources in order to "stop" the videos from playing
+M.format_grid.bpm_stop_videos = function() {
+    var iframes = document.getElementsByClassName("yt_frame");
+    for (var i = iframes.length - 1; i >= 0; i--) {
+        var currentSrc = iframes[i].src;
+        currentSrc = currentSrc.replace('&autoplay=1','&autoplay=0');
+        iframes[i].src = currentSrc;
+    }
 };
