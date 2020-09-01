@@ -1,0 +1,160 @@
+[01-Jun-2017 15:50:35 Asia/Jerusalem] PHP Notice:  Invalid get_string() identifier: 'moodleanalyst:view' or component 'report_moodleanalyst'. Perhaps you are missing $string['moodleanalyst:view'] = ''; in /home/mybpmmusic/public_html/moodle31/report/moodleanalyst/lang/en/report_moodleanalyst.php?<ul style="text-align: left" data-rel="backtrace"><li>line 349 of /lib/classes/string_manager_standard.php: call to debugging()</li><li>line 7076 of /lib/moodlelib.php: call to core_string_manager_standard->get_string()</li><li>line 2693 of /lib/accesslib.php: call to get_string()</li><li>line 227 of /lib/setuplib.php: call to get_capability_string()</li><li>line 788 of /lib/accesslib.php: call to required_capability_exception->__construct()</li><li>line 34 of /report/moodleanalyst/index.php: call to require_capability()</li></ul> in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[01-Jun-2017 15:50:35 Asia/Jerusalem] Default exception handler: למשתמש שלכם אין את ההרשאה לבצע את הפעולה "[[moodleanalyst:view]]".
+<br />
+יש לפנות למנהל(ת) המערכת שלכם לקבלת ההרשאות המתאימות. Debug: 
+Error code: nopermissions
+* line 788 of /lib/accesslib.php: required_capability_exception thrown
+* line 34 of /report/moodleanalyst/index.php: call to require_capability()
+
+[01-Jun-2017 15:50:51 Asia/Jerusalem] PHP Notice:  Invalid get_string() identifier: 'moodleanalyst:view' or component 'report_moodleanalyst'. Perhaps you are missing $string['moodleanalyst:view'] = ''; in /home/mybpmmusic/public_html/moodle31/report/moodleanalyst/lang/en/report_moodleanalyst.php?<ul style="text-align: left" data-rel="backtrace"><li>line 349 of /lib/classes/string_manager_standard.php: call to debugging()</li><li>line 7076 of /lib/moodlelib.php: call to core_string_manager_standard->get_string()</li><li>line 2693 of /lib/accesslib.php: call to get_string()</li><li>line 227 of /lib/setuplib.php: call to get_capability_string()</li><li>line 788 of /lib/accesslib.php: call to required_capability_exception->__construct()</li><li>line 34 of /report/moodleanalyst/index.php: call to require_capability()</li></ul> in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[01-Jun-2017 15:50:51 Asia/Jerusalem] Default exception handler: למשתמש שלכם אין את ההרשאה לבצע את הפעולה "[[moodleanalyst:view]]".
+<br />
+יש לפנות למנהל(ת) המערכת שלכם לקבלת ההרשאות המתאימות. Debug: 
+Error code: nopermissions
+* line 788 of /lib/accesslib.php: required_capability_exception thrown
+* line 34 of /report/moodleanalyst/index.php: call to require_capability()
+
+[01-Jun-2017 15:57:29 Asia/Jerusalem] PHP Notice:  Invalid get_string() identifier: 'moodleanalyst:view' or component 'report_moodleanalyst'. Perhaps you are missing $string['moodleanalyst:view'] = ''; in /home/mybpmmusic/public_html/moodle31/report/moodleanalyst/lang/en/report_moodleanalyst.php?<ul style="text-align: left" data-rel="backtrace"><li>line 349 of /lib/classes/string_manager_standard.php: call to debugging()</li><li>line 7076 of /lib/moodlelib.php: call to core_string_manager_standard->get_string()</li><li>line 2693 of /lib/accesslib.php: call to get_string()</li><li>line 227 of /lib/setuplib.php: call to get_capability_string()</li><li>line 788 of /lib/accesslib.php: call to required_capability_exception->__construct()</li><li>line 34 of /report/moodleanalyst/index.php: call to require_capability()</li></ul> in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[01-Jun-2017 15:57:29 Asia/Jerusalem] Default exception handler: למשתמש שלכם אין את ההרשאה לבצע את הפעולה "[[moodleanalyst:view]]".
+<br />
+יש לפנות למנהל(ת) המערכת שלכם לקבלת ההרשאות המתאימות. Debug: 
+Error code: nopermissions
+* line 788 of /lib/accesslib.php: required_capability_exception thrown
+* line 34 of /report/moodleanalyst/index.php: call to require_capability()
+
+[01-Jun-2017 16:10:00 Asia/Jerusalem] PHP Notice:  Invalid get_string() identifier: 'moodleanalyst:view' or component 'report_moodleanalyst'. Perhaps you are missing $string['moodleanalyst:view'] = ''; in /home/mybpmmusic/public_html/moodle31/report/moodleanalyst/lang/en/report_moodleanalyst.php?<ul style="text-align: left" data-rel="backtrace"><li>line 349 of /lib/classes/string_manager_standard.php: call to debugging()</li><li>line 7076 of /lib/moodlelib.php: call to core_string_manager_standard->get_string()</li><li>line 2693 of /lib/accesslib.php: call to get_string()</li><li>line 227 of /lib/setuplib.php: call to get_capability_string()</li><li>line 788 of /lib/accesslib.php: call to required_capability_exception->__construct()</li><li>line 34 of /report/moodleanalyst/index.php: call to require_capability()</li></ul> in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[01-Jun-2017 16:10:00 Asia/Jerusalem] Default exception handler: למשתמש שלכם אין את ההרשאה לבצע את הפעולה "[[moodleanalyst:view]]".
+<br />
+יש לפנות למנהל(ת) המערכת שלכם לקבלת ההרשאות המתאימות. Debug: 
+Error code: nopermissions
+* line 788 of /lib/accesslib.php: required_capability_exception thrown
+* line 34 of /report/moodleanalyst/index.php: call to require_capability()
+
+[01-Jun-2017 16:10:13 Asia/Jerusalem] PHP Notice:  Invalid get_string() identifier: 'moodleanalyst:view' or component 'report_moodleanalyst'. Perhaps you are missing $string['moodleanalyst:view'] = ''; in /home/mybpmmusic/public_html/moodle31/report/moodleanalyst/lang/en/report_moodleanalyst.php?<ul style="text-align: left" data-rel="backtrace"><li>line 349 of /lib/classes/string_manager_standard.php: call to debugging()</li><li>line 7076 of /lib/moodlelib.php: call to core_string_manager_standard->get_string()</li><li>line 2693 of /lib/accesslib.php: call to get_string()</li><li>line 227 of /lib/setuplib.php: call to get_capability_string()</li><li>line 788 of /lib/accesslib.php: call to required_capability_exception->__construct()</li><li>line 34 of /report/moodleanalyst/index.php: call to require_capability()</li></ul> in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[01-Jun-2017 16:10:13 Asia/Jerusalem] Default exception handler: למשתמש שלכם אין את ההרשאה לבצע את הפעולה "[[moodleanalyst:view]]".
+<br />
+יש לפנות למנהל(ת) המערכת שלכם לקבלת ההרשאות המתאימות. Debug: 
+Error code: nopermissions
+* line 788 of /lib/accesslib.php: required_capability_exception thrown
+* line 34 of /report/moodleanalyst/index.php: call to require_capability()
+
+[04-Jun-2017 14:39:21 Asia/Jerusalem] PHP Notice:  Invalid get_string() identifier: 'moodleanalyst:view' or component 'report_moodleanalyst'. Perhaps you are missing $string['moodleanalyst:view'] = ''; in /home/mybpmmusic/public_html/moodle31/report/moodleanalyst/lang/en/report_moodleanalyst.php?<ul style="text-align: left" data-rel="backtrace"><li>line 349 of /lib/classes/string_manager_standard.php: call to debugging()</li><li>line 7076 of /lib/moodlelib.php: call to core_string_manager_standard->get_string()</li><li>line 2693 of /lib/accesslib.php: call to get_string()</li><li>line 227 of /lib/setuplib.php: call to get_capability_string()</li><li>line 788 of /lib/accesslib.php: call to required_capability_exception->__construct()</li><li>line 34 of /report/moodleanalyst/index.php: call to require_capability()</li></ul> in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[04-Jun-2017 14:39:21 Asia/Jerusalem] Default exception handler: למשתמש שלכם אין את ההרשאה לבצע את הפעולה "[[moodleanalyst:view]]".
+<br />
+יש לפנות למנהל(ת) המערכת שלכם לקבלת ההרשאות המתאימות. Debug: 
+Error code: nopermissions
+* line 788 of /lib/accesslib.php: required_capability_exception thrown
+* line 34 of /report/moodleanalyst/index.php: call to require_capability()
+
+[14-Jun-2017 11:10:49 Asia/Jerusalem] PHP Notice:  Invalid get_string() identifier: 'moodleanalyst:view' or component 'report_moodleanalyst'. Perhaps you are missing $string['moodleanalyst:view'] = ''; in /home/mybpmmusic/public_html/moodle31/report/moodleanalyst/lang/en/report_moodleanalyst.php?<ul style="text-align: left" data-rel="backtrace"><li>line 349 of /lib/classes/string_manager_standard.php: call to debugging()</li><li>line 7076 of /lib/moodlelib.php: call to core_string_manager_standard->get_string()</li><li>line 2693 of /lib/accesslib.php: call to get_string()</li><li>line 227 of /lib/setuplib.php: call to get_capability_string()</li><li>line 788 of /lib/accesslib.php: call to required_capability_exception->__construct()</li><li>line 34 of /report/moodleanalyst/index.php: call to require_capability()</li></ul> in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[14-Jun-2017 11:10:49 Asia/Jerusalem] Default exception handler: למשתמש שלכם אין את ההרשאה לבצע את הפעולה "[[moodleanalyst:view]]".
+<br />
+יש לפנות למנהל(ת) המערכת שלכם לקבלת ההרשאות המתאימות. Debug: 
+Error code: nopermissions
+* line 788 of /lib/accesslib.php: required_capability_exception thrown
+* line 34 of /report/moodleanalyst/index.php: call to require_capability()
+
+[29-Jun-2017 09:19:56 Asia/Jerusalem] PHP Notice:  Invalid get_string() identifier: 'moodleanalyst:view' or component 'report_moodleanalyst'. Perhaps you are missing $string['moodleanalyst:view'] = ''; in /home/mybpmmusic/public_html/moodle31/report/moodleanalyst/lang/en/report_moodleanalyst.php?<ul style="text-align: left" data-rel="backtrace"><li>line 349 of /lib/classes/string_manager_standard.php: call to debugging()</li><li>line 7076 of /lib/moodlelib.php: call to core_string_manager_standard->get_string()</li><li>line 2693 of /lib/accesslib.php: call to get_string()</li><li>line 227 of /lib/setuplib.php: call to get_capability_string()</li><li>line 788 of /lib/accesslib.php: call to required_capability_exception->__construct()</li><li>line 34 of /report/moodleanalyst/index.php: call to require_capability()</li></ul> in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[29-Jun-2017 09:19:56 Asia/Jerusalem] Default exception handler: למשתמש שלכם אין את ההרשאה לבצע את הפעולה "[[moodleanalyst:view]]".
+<br />
+יש לפנות למנהל(ת) המערכת שלכם לקבלת ההרשאות המתאימות. Debug: 
+Error code: nopermissions
+* line 788 of /lib/accesslib.php: required_capability_exception thrown
+* line 34 of /report/moodleanalyst/index.php: call to require_capability()
+
+[04-Jul-2017 10:16:56 Asia/Jerusalem] PHP Notice:  Invalid get_string() identifier: 'moodleanalyst:view' or component 'report_moodleanalyst'. Perhaps you are missing $string['moodleanalyst:view'] = ''; in /home/mybpmmusic/public_html/moodle31/report/moodleanalyst/lang/en/report_moodleanalyst.php?<ul style="text-align: left" data-rel="backtrace"><li>line 349 of /lib/classes/string_manager_standard.php: call to debugging()</li><li>line 7076 of /lib/moodlelib.php: call to core_string_manager_standard->get_string()</li><li>line 2693 of /lib/accesslib.php: call to get_string()</li><li>line 227 of /lib/setuplib.php: call to get_capability_string()</li><li>line 788 of /lib/accesslib.php: call to required_capability_exception->__construct()</li><li>line 34 of /report/moodleanalyst/index.php: call to require_capability()</li></ul> in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[04-Jul-2017 10:16:56 Asia/Jerusalem] Default exception handler: למשתמש שלכם אין את ההרשאה לבצע את הפעולה "[[moodleanalyst:view]]".
+<br />
+יש לפנות למנהל(ת) המערכת שלכם לקבלת ההרשאות המתאימות. Debug: 
+Error code: nopermissions
+* line 788 of /lib/accesslib.php: required_capability_exception thrown
+* line 34 of /report/moodleanalyst/index.php: call to require_capability()
+
+[13-Jul-2017 10:51:27 Asia/Jerusalem] PHP Notice:  Invalid get_string() identifier: 'moodleanalyst:view' or component 'report_moodleanalyst'. Perhaps you are missing $string['moodleanalyst:view'] = ''; in /home/mybpmmusic/public_html/moodle31/report/moodleanalyst/lang/en/report_moodleanalyst.php?<ul style="text-align: left" data-rel="backtrace"><li>line 349 of /lib/classes/string_manager_standard.php: call to debugging()</li><li>line 7076 of /lib/moodlelib.php: call to core_string_manager_standard->get_string()</li><li>line 2693 of /lib/accesslib.php: call to get_string()</li><li>line 227 of /lib/setuplib.php: call to get_capability_string()</li><li>line 788 of /lib/accesslib.php: call to required_capability_exception->__construct()</li><li>line 34 of /report/moodleanalyst/index.php: call to require_capability()</li></ul> in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[13-Jul-2017 10:51:27 Asia/Jerusalem] Default exception handler: למשתמש שלכם אין את ההרשאה לבצע את הפעולה "[[moodleanalyst:view]]".
+<br />
+יש לפנות למנהל(ת) המערכת שלכם לקבלת ההרשאות המתאימות. Debug: 
+Error code: nopermissions
+* line 788 of /lib/accesslib.php: required_capability_exception thrown
+* line 34 of /report/moodleanalyst/index.php: call to require_capability()
+
+[24-Jul-2017 08:02:59 Asia/Jerusalem] PHP Notice:  Invalid get_string() identifier: 'moodleanalyst:view' or component 'report_moodleanalyst'. Perhaps you are missing $string['moodleanalyst:view'] = ''; in /home/mybpmmusic/public_html/moodle31/report/moodleanalyst/lang/en/report_moodleanalyst.php?<ul style="text-align: left" data-rel="backtrace"><li>line 349 of /lib/classes/string_manager_standard.php: call to debugging()</li><li>line 7076 of /lib/moodlelib.php: call to core_string_manager_standard->get_string()</li><li>line 2693 of /lib/accesslib.php: call to get_string()</li><li>line 227 of /lib/setuplib.php: call to get_capability_string()</li><li>line 788 of /lib/accesslib.php: call to required_capability_exception->__construct()</li><li>line 34 of /report/moodleanalyst/index.php: call to require_capability()</li></ul> in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[24-Jul-2017 08:02:59 Asia/Jerusalem] Default exception handler: למשתמש שלכם אין את ההרשאה לבצע את הפעולה "[[moodleanalyst:view]]".
+<br />
+יש לפנות למנהל(ת) המערכת שלכם לקבלת ההרשאות המתאימות. Debug: 
+Error code: nopermissions
+* line 788 of /lib/accesslib.php: required_capability_exception thrown
+* line 34 of /report/moodleanalyst/index.php: call to require_capability()
+
+[07-Aug-2017 09:35:07 Asia/Jerusalem] PHP Notice:  Invalid get_string() identifier: 'moodleanalyst:view' or component 'report_moodleanalyst'. Perhaps you are missing $string['moodleanalyst:view'] = ''; in /home/mybpmmusic/public_html/moodle31/report/moodleanalyst/lang/en/report_moodleanalyst.php?<ul style="text-align: left" data-rel="backtrace"><li>line 349 of /lib/classes/string_manager_standard.php: call to debugging()</li><li>line 7076 of /lib/moodlelib.php: call to core_string_manager_standard->get_string()</li><li>line 2693 of /lib/accesslib.php: call to get_string()</li><li>line 227 of /lib/setuplib.php: call to get_capability_string()</li><li>line 788 of /lib/accesslib.php: call to required_capability_exception->__construct()</li><li>line 34 of /report/moodleanalyst/index.php: call to require_capability()</li></ul> in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[07-Aug-2017 09:35:07 Asia/Jerusalem] Default exception handler: למשתמש שלכם אין את ההרשאה לבצע את הפעולה "[[moodleanalyst:view]]".
+<br />
+יש לפנות למנהל(ת) המערכת שלכם לקבלת ההרשאות המתאימות. Debug: 
+Error code: nopermissions
+* line 788 of /lib/accesslib.php: required_capability_exception thrown
+* line 34 of /report/moodleanalyst/index.php: call to require_capability()
+
+[20-Aug-2017 09:28:40 Asia/Jerusalem] PHP Notice:  Invalid get_string() identifier: 'moodleanalyst:view' or component 'report_moodleanalyst'. Perhaps you are missing $string['moodleanalyst:view'] = ''; in /home/mybpmmusic/public_html/moodle31/report/moodleanalyst/lang/en/report_moodleanalyst.php?<ul style="text-align: left" data-rel="backtrace"><li>line 349 of /lib/classes/string_manager_standard.php: call to debugging()</li><li>line 7076 of /lib/moodlelib.php: call to core_string_manager_standard->get_string()</li><li>line 2693 of /lib/accesslib.php: call to get_string()</li><li>line 227 of /lib/setuplib.php: call to get_capability_string()</li><li>line 788 of /lib/accesslib.php: call to required_capability_exception->__construct()</li><li>line 34 of /report/moodleanalyst/index.php: call to require_capability()</li></ul> in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[20-Aug-2017 09:28:41 Asia/Jerusalem] Default exception handler: למשתמש שלכם אין את ההרשאה לבצע את הפעולה "[[moodleanalyst:view]]".
+<br />
+יש לפנות למנהל(ת) המערכת שלכם לקבלת ההרשאות המתאימות. Debug: 
+Error code: nopermissions
+* line 788 of /lib/accesslib.php: required_capability_exception thrown
+* line 34 of /report/moodleanalyst/index.php: call to require_capability()
+
+[23-Aug-2017 10:47:22 Asia/Jerusalem] PHP Notice:  Invalid get_string() identifier: 'moodleanalyst:view' or component 'report_moodleanalyst'. Perhaps you are missing $string['moodleanalyst:view'] = ''; in /home/mybpmmusic/public_html/moodle31/report/moodleanalyst/lang/en/report_moodleanalyst.php?<ul style="text-align: left" data-rel="backtrace"><li>line 349 of /lib/classes/string_manager_standard.php: call to debugging()</li><li>line 7076 of /lib/moodlelib.php: call to core_string_manager_standard->get_string()</li><li>line 2693 of /lib/accesslib.php: call to get_string()</li><li>line 227 of /lib/setuplib.php: call to get_capability_string()</li><li>line 788 of /lib/accesslib.php: call to required_capability_exception->__construct()</li><li>line 34 of /report/moodleanalyst/index.php: call to require_capability()</li></ul> in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[23-Aug-2017 10:47:22 Asia/Jerusalem] Default exception handler: למשתמש שלכם אין את ההרשאה לבצע את הפעולה "[[moodleanalyst:view]]".
+<br />
+יש לפנות למנהל(ת) המערכת שלכם לקבלת ההרשאות המתאימות. Debug: 
+Error code: nopermissions
+* line 788 of /lib/accesslib.php: required_capability_exception thrown
+* line 34 of /report/moodleanalyst/index.php: call to require_capability()
+
+[24-Aug-2017 21:05:26 Asia/Jerusalem] PHP Notice:  Invalid get_string() identifier: 'moodleanalyst:view' or component 'report_moodleanalyst'. Perhaps you are missing $string['moodleanalyst:view'] = ''; in /home/mybpmmusic/public_html/moodle31/report/moodleanalyst/lang/en/report_moodleanalyst.php?<ul style="text-align: left" data-rel="backtrace"><li>line 349 of /lib/classes/string_manager_standard.php: call to debugging()</li><li>line 7076 of /lib/moodlelib.php: call to core_string_manager_standard->get_string()</li><li>line 2693 of /lib/accesslib.php: call to get_string()</li><li>line 227 of /lib/setuplib.php: call to get_capability_string()</li><li>line 788 of /lib/accesslib.php: call to required_capability_exception->__construct()</li><li>line 34 of /report/moodleanalyst/index.php: call to require_capability()</li></ul> in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[24-Aug-2017 21:05:26 Asia/Jerusalem] Default exception handler: למשתמש שלכם אין את ההרשאה לבצע את הפעולה "[[moodleanalyst:view]]".
+<br />
+יש לפנות למנהל(ת) המערכת שלכם לקבלת ההרשאות המתאימות. Debug: 
+Error code: nopermissions
+* line 788 of /lib/accesslib.php: required_capability_exception thrown
+* line 34 of /report/moodleanalyst/index.php: call to require_capability()
+
+[30-Aug-2017 11:34:13 Asia/Jerusalem] PHP Notice:  Invalid get_string() identifier: 'moodleanalyst:view' or component 'report_moodleanalyst'. Perhaps you are missing $string['moodleanalyst:view'] = ''; in /home/mybpmmusic/public_html/moodle31/report/moodleanalyst/lang/en/report_moodleanalyst.php?<ul style="text-align: left" data-rel="backtrace"><li>line 349 of /lib/classes/string_manager_standard.php: call to debugging()</li><li>line 7076 of /lib/moodlelib.php: call to core_string_manager_standard->get_string()</li><li>line 2693 of /lib/accesslib.php: call to get_string()</li><li>line 227 of /lib/setuplib.php: call to get_capability_string()</li><li>line 788 of /lib/accesslib.php: call to required_capability_exception->__construct()</li><li>line 34 of /report/moodleanalyst/index.php: call to require_capability()</li></ul> in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[30-Aug-2017 11:34:13 Asia/Jerusalem] Default exception handler: למשתמש שלכם אין את ההרשאה לבצע את הפעולה "[[moodleanalyst:view]]".
+<br />
+יש לפנות למנהל(ת) המערכת שלכם לקבלת ההרשאות המתאימות. Debug: 
+Error code: nopermissions
+* line 788 of /lib/accesslib.php: required_capability_exception thrown
+* line 34 of /report/moodleanalyst/index.php: call to require_capability()
+
+[30-Aug-2017 15:05:20 Asia/Jerusalem] PHP Notice:  Invalid get_string() identifier: 'moodleanalyst:view' or component 'report_moodleanalyst'. Perhaps you are missing $string['moodleanalyst:view'] = ''; in /home/mybpmmusic/public_html/moodle31/report/moodleanalyst/lang/en/report_moodleanalyst.php?<ul style="text-align: left" data-rel="backtrace"><li>line 349 of /lib/classes/string_manager_standard.php: call to debugging()</li><li>line 7076 of /lib/moodlelib.php: call to core_string_manager_standard->get_string()</li><li>line 2693 of /lib/accesslib.php: call to get_string()</li><li>line 227 of /lib/setuplib.php: call to get_capability_string()</li><li>line 788 of /lib/accesslib.php: call to required_capability_exception->__construct()</li><li>line 34 of /report/moodleanalyst/index.php: call to require_capability()</li></ul> in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[30-Aug-2017 15:05:20 Asia/Jerusalem] Default exception handler: למשתמש שלכם אין את ההרשאה לבצע את הפעולה "[[moodleanalyst:view]]".
+<br />
+יש לפנות למנהל(ת) המערכת שלכם לקבלת ההרשאות המתאימות. Debug: 
+Error code: nopermissions
+* line 788 of /lib/accesslib.php: required_capability_exception thrown
+* line 34 of /report/moodleanalyst/index.php: call to require_capability()
+
+[03-Oct-2017 20:27:48 Asia/Jerusalem] PHP Notice:  Invalid get_string() identifier: 'moodleanalyst:view' or component 'report_moodleanalyst'. Perhaps you are missing $string['moodleanalyst:view'] = ''; in /home/mybpmmusic/public_html/moodle31/report/moodleanalyst/lang/en/report_moodleanalyst.php?<ul style="text-align: left" data-rel="backtrace"><li>line 349 of /lib/classes/string_manager_standard.php: call to debugging()</li><li>line 7076 of /lib/moodlelib.php: call to core_string_manager_standard->get_string()</li><li>line 2693 of /lib/accesslib.php: call to get_string()</li><li>line 227 of /lib/setuplib.php: call to get_capability_string()</li><li>line 788 of /lib/accesslib.php: call to required_capability_exception->__construct()</li><li>line 34 of /report/moodleanalyst/index.php: call to require_capability()</li></ul> in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[03-Oct-2017 20:27:48 Asia/Jerusalem] Default exception handler: למשתמש שלכם אין את ההרשאה לבצע את הפעולה "[[moodleanalyst:view]]".
+<br />
+יש לפנות למנהל(ת) המערכת שלכם לקבלת ההרשאות המתאימות. Debug: 
+Error code: nopermissions
+* line 788 of /lib/accesslib.php: required_capability_exception thrown
+* line 34 of /report/moodleanalyst/index.php: call to require_capability()
+
+[01-Nov-2017 12:31:25 Asia/Jerusalem] PHP Notice:  Invalid get_string() identifier: 'moodleanalyst:view' or component 'report_moodleanalyst'. Perhaps you are missing $string['moodleanalyst:view'] = ''; in /home/mybpmmusic/public_html/moodle31/report/moodleanalyst/lang/en/report_moodleanalyst.php?<ul style="text-align: left" data-rel="backtrace"><li>line 349 of /lib/classes/string_manager_standard.php: call to debugging()</li><li>line 7076 of /lib/moodlelib.php: call to core_string_manager_standard->get_string()</li><li>line 2693 of /lib/accesslib.php: call to get_string()</li><li>line 227 of /lib/setuplib.php: call to get_capability_string()</li><li>line 788 of /lib/accesslib.php: call to required_capability_exception->__construct()</li><li>line 34 of /report/moodleanalyst/index.php: call to require_capability()</li></ul> in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[01-Nov-2017 12:31:26 Asia/Jerusalem] Default exception handler: למשתמש שלכם אין את ההרשאה לבצע את הפעולה "[[moodleanalyst:view]]".
+<br />
+יש לפנות למנהל(ת) המערכת שלכם לקבלת ההרשאות המתאימות. Debug: 
+Error code: nopermissions
+* line 788 of /lib/accesslib.php: required_capability_exception thrown
+* line 34 of /report/moodleanalyst/index.php: call to require_capability()
+
+[01-Nov-2017 12:31:30 Asia/Jerusalem] PHP Notice:  Invalid get_string() identifier: 'moodleanalyst:view' or component 'report_moodleanalyst'. Perhaps you are missing $string['moodleanalyst:view'] = ''; in /home/mybpmmusic/public_html/moodle31/report/moodleanalyst/lang/en/report_moodleanalyst.php?<ul style="text-align: left" data-rel="backtrace"><li>line 349 of /lib/classes/string_manager_standard.php: call to debugging()</li><li>line 7076 of /lib/moodlelib.php: call to core_string_manager_standard->get_string()</li><li>line 2693 of /lib/accesslib.php: call to get_string()</li><li>line 227 of /lib/setuplib.php: call to get_capability_string()</li><li>line 788 of /lib/accesslib.php: call to required_capability_exception->__construct()</li><li>line 34 of /report/moodleanalyst/index.php: call to require_capability()</li></ul> in /home/mybpmmusic/public_html/moodle31/lib/weblib.php on line 3110
+[01-Nov-2017 12:31:30 Asia/Jerusalem] Default exception handler: למשתמש שלכם אין את ההרשאה לבצע את הפעולה "[[moodleanalyst:view]]".
+<br />
+יש לפנות למנהל(ת) המערכת שלכם לקבלת ההרשאות המתאימות. Debug: 
+Error code: nopermissions
+* line 788 of /lib/accesslib.php: required_capability_exception thrown
+* line 34 of /report/moodleanalyst/index.php: call to require_capability()
+
