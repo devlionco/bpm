@@ -78,7 +78,7 @@ class block_massaction extends block_base {
      * @return The HTML content of the block.
      */
     public function get_content() {
-        global $COURSE, $OUTPUT, $PAGE;
+        global $COURSE, $PAGE;
 
         if ($this->content !== null) {
             return $this->content;
@@ -99,64 +99,34 @@ class block_massaction extends block_base {
              */
             $PAGE->requires->js_call_amd('block_massaction/block_massaction', 'init', array($jsdata));
 
-            $str = array(
-                'selectall'     => get_string('selectall', 'block_massaction'),
-                'itemsin'       => get_string('itemsin', 'block_massaction'),
-                'allitems'      => get_string('allitems', 'block_massaction'),
-                'selectnone'    => get_string('selectnone', 'block_massaction'),
-                'withselected'  => get_string('withselected', 'block_massaction'),
-                'action_move'   => get_string('action_move', 'block_massaction'),
-                'action_clone'  => get_string('action_clone', 'block_massaction')
+            // Open main content div for the plugin.
+            // Having a div with a manually assigned class allows us to style it.
+            $this->content->text .= html_writer::start_tag('div',
+                array('class' => 'block-massaction-jsenabled'));
+
+            // Get select elements.
+            $this->content->text .= $this->get_select_section();
+
+            // Get action links.
+            $this->content->text .= $this->get_action_section();
+
+            // Get operation menus.
+            // The actions in this array have a topic or section in the course as their target.
+            $actions = array(
+                'move',
+                'clone'
             );
 
-            $formhtml = $this->get_form_html($COURSE->id,
-                                                 $COURSE->format,
-                                                 $this->instance->id,
-                                                 $_SERVER['REQUEST_URI']);
+            $this->content->text .= $this->get_operation_section($actions);
 
-            $this->content->text  = <<< EOB
-<div class="block-massaction-jsenabled">
-    <a id="block-massaction-selectall" href="javascript:void(0);">{$str['selectall']}</a><br/>
-    <select id="block-massaction-selectsome">
-    	<option value="all">{$str['allitems']}</option>
-    </select>
-    <a id="block-massaction-selectnone" href="javascript:void(0);">{$str['selectnone']}</a><br/><br/>
+            // Get hidden form html.
+            $this->content->text .= $this->get_form_html($COURSE->id, $COURSE->format, $this->instance->id,
+                $_SERVER['REQUEST_URI']);
 
-    {$str['withselected']}:
-EOB;
+            // Get help section.
+            $this->content->text .= $this->get_help_section();
 
-            // Print the action links.
-            $actionicons = array(
-                'outdent' => 't/left',
-                'indent'  => 't/right',
-                'hide'    => 't/show',
-                'show'    => 't/hide',
-                'delete'  => 't/delete'
-            );
-
-            foreach ($actionicons as $action => $iconpath) {
-                $pixpath    = $OUTPUT->pix_url($iconpath);
-                $actiontext = get_string('action_'.$action, 'block_massaction');
-
-                $this->content->text .= <<< EOB
-    <br/>
-    <a id="block-massaction-{$action}" class="massaction-action" href="javascript:void(0);">
-    	<img src="{$pixpath}" alt="{$actiontext}" title="{$actiontext}"/>&nbsp;{$actiontext}
-    </a>
-EOB;
-            }
-            $this->content->text .= html_writer::empty_tag('br');
-            $this->content->text .= <<< EOB
-    <select id="block-massaction-move">
-    	<option value="">{$str['action_move']}</option>
-    </select>
-    <select id="block-massaction-clone">
-    	<option value="">{$str['action_clone']}</option>
-    </select>
-    {$formhtml}
-    <div id="block-massaction-help-icon">{$OUTPUT->help_icon('usage', 'block_massaction')}</div>
-</div>
-EOB;
+            $this->content->text .= html_writer::end_tag('div');
         }
 
         return $this->content;
@@ -200,6 +170,145 @@ EOB;
         $jsdata = array('sectionmodules' => $sectionmodules, 'sectionnames' => $sectionnames);
 
         return $jsdata;
+    }
+
+    /**
+     * Gets the html content for the "Select All" and "Deselect All" links,
+     * and the "Select All in Section" menu.
+     *
+     * @return string The html for this section.
+     */
+    private function get_select_section() {
+        $selecttext = html_writer::start_tag('div', array('class' => 'block-massaction-select'));
+        $selecttext .= html_writer::start_tag('ul');
+
+        // Create "Select All" link.
+        $selecttext .= $this->get_item_content('a', 'selectall',
+            array('id' => 'block-massaction-selectall',
+                  'href' => 'javascript:void(0);',
+                  'title' => get_string('selectall', 'block_massaction')));
+
+        // Open "Select All" menu.
+        $selecttext .= $this->get_item_content('select', 'allitems',
+            array('id' => 'block-massaction-selectsome'), array('value' => 'all'));
+
+        // Create "Deselect All" link.
+        $selecttext .= $this->get_item_content('a', 'selectnone',
+            array('id' => 'block-massaction-selectnone',
+                  'href' => 'javascript:void(0);',
+                  'title' => get_string('selectnone', 'block_massaction')));
+
+        $selecttext .= html_writer::end_tag('ul');
+        $selecttext .= html_writer::end_tag('div');
+
+        return $selecttext;
+    }
+
+    /**
+     * Gets the html content for the action links, e.g. "Outdent", "Indent", etc.
+     *
+     * @return string The html for this section.
+     */
+    private function get_action_section() {
+        $actiontext = html_writer::start_tag('div', array('class' => 'block-massaction-action'));
+        $actiontext .= html_writer::start_tag('ul');
+        $actiontext .= html_writer::start_tag('li');
+        $actiontext .= get_string('withselected', 'block_massaction').':';
+        $actiontext .= html_writer::end_tag('li');
+
+        // Print the action links.
+        $actionicons = array(
+            'outdent' => 't/left',
+            'indent'  => 't/right',
+            'hide'    => 't/show',
+            'show'    => 't/hide',
+            'delete'  => 't/delete'
+        );
+
+        foreach ($actionicons as $action => $iconpath) {
+            $actiontext .= $this->get_item_content('a', 'action_' . $action,
+                array('id' => 'block-massaction-' . $action,
+                      'class' => 'massaction-action',
+                      'href' => 'javascript:void(0);'),
+                array(), $iconpath);
+        }
+
+        $actiontext .= html_writer::end_tag('ul');
+        $actiontext .= html_writer::end_tag('div');
+
+        return $actiontext;
+    }
+
+    /**
+     * Gets the html content for the operations menus.
+     *
+     * @param array $actions The operation actions that have a topic or section as their target.
+     *
+     * @return string The html for this section.
+     */
+    private function get_operation_section($actions) {
+        $opstext = html_writer::start_tag('div', array('class' => 'block-massaction-operation'));
+        $opstext .= html_writer::start_tag('ul');
+
+        foreach ($actions as $action) {
+            $opstext .= $this->get_item_content('select', 'action_' . $action,
+                array('id' => 'block-massaction-' . $action));
+        }
+
+        $opstext .= html_writer::end_tag('ul');
+        $opstext .= html_writer::end_tag('div');
+
+        return $opstext;
+    }
+
+    /**
+     * Gets the html content for the help section.
+     *
+     * @return string The html for this section.
+     */
+    private function get_help_section() {
+        global $OUTPUT;
+
+        $helptext = html_writer::start_tag('div', array('id' => 'block-massaction-help-icon'));
+        $helptext .= $OUTPUT->help_icon('usage', 'block_massaction');
+        $helptext .= html_writer::end_tag('div');
+
+        return $helptext;
+    }
+
+    /**
+     * Encapsulates the logic required to write the individual links and drop menus for the block.
+     *
+     * @param string $itemtag   The element's html tag, e.g. 'select', 'a', etc.
+     * @param string $itemstr   The element's language string identifier, e.g. 'action_delete', etc.
+     * @param array  $itemattrs The element's id and class, if any.
+     * @param array  $itemval   The value for the select menu's first option.
+     * @param string $iconpath  The pix_icon path for the link.
+     *
+     * @return string HTML content for the requested element.
+     */
+    private function get_item_content($itemtag, $itemstr, $itemattrs = array(), $itemval = array('value' => ''), $iconpath = '') {
+        global $OUTPUT;
+
+        $itemtext = html_writer::start_tag('li');
+        $itemtext .= html_writer::start_tag($itemtag, $itemattrs);
+
+        if ($itemtag == 'select') {
+            $itemtext .= html_writer::start_tag('option', $itemval);
+            $itemtext .= get_string($itemstr, 'block_massaction');
+            $itemtext .= html_writer::end_tag('option');
+        } else {
+            if ($iconpath != '') {
+                $itemtext .= $OUTPUT->pix_icon($iconpath, get_string($itemstr, 'block_massaction'));
+            }
+
+            $itemtext .= get_string($itemstr, 'block_massaction');
+        }
+
+        $itemtext .= html_writer::end_tag($itemtag);
+        $itemtext .= html_writer::end_tag('li');
+
+        return $itemtext;
     }
 
     /**

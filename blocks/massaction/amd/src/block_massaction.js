@@ -75,8 +75,12 @@ define(['jquery', 'core/str'], function($, corestr) {
                      * We need the spans that house the edit controls in order to append our checkboxes
                      * to them later.
                      */
-                    jQueryIdentifier = sectionId + ' ul.section li.activity div.mod-indent-outer div';
+                    jQueryIdentifier = sectionId + ' ul.section li.activity ' + 'div.mod-indent-outer div';
+
                     courseActivities = $('#section-' + jQueryIdentifier).children('span.actions');
+                    if (!courseActivities.length) {
+                        courseActivities = $('#section-' + jQueryIdentifier).children('div.actions');
+                    }
 
                     for (moduleKey in data.sectionmodules[sectionId]) {
                         moduleId = data.sectionmodules[sectionId][moduleKey];
@@ -322,7 +326,7 @@ define(['jquery', 'core/str'], function($, corestr) {
                 var nothingSelected = corestr.get_string('noitemselected', 'block_massaction');
                 $.when(nothingSelected).done(function(alertString) {
                     window.alert(alertString);
-                });;
+                });
             }
         }
     };
