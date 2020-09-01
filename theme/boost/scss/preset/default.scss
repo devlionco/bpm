@@ -82,6 +82,9 @@ $theme-colors: map-merge((
 ), $theme-colors);
 // stylelint-enable
 
+// Import BPM Fonts .
+@import "fonts";
+
 // Import FontAwesome.
 @import "fontawesome";
 
