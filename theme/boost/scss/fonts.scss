@@ -8,3 +8,15 @@
   font-weight: normal;
   font-style: normal;
 }
+
+@font-face {
+  font-family: 'NarkissNew-Medium_MFW';
+  src: url([[font:theme|NarkissNew-medium_mfw.eot]]);
+  src: url([[font:theme|NarkissNew-medium_mfw.eot]]) format('embedded-opentype'),
+  url([[font:theme|NarkissNew-medium_mfw.woff]]) format('woff'),
+  url([[font:theme|NarkissNew-medium_mfw.ttf]]) format('truetype'),
+  url([[font:theme|NarkissNew-medium_mfw.svg]]) format('svg');
+  font-weight: normal;
+  font-style: normal;
+
+}
