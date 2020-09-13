@@ -105,4 +105,6 @@ echo $output->heading(get_string('attendanceforthecourse', 'attendance').' :: ' 
 echo $output->render($tabs);
 echo $output->render($sesstable);
 
+//incude script for private remarks
+echo '<script src="https://my.bpm-music.com/Extra_content/attendance_student_remark/attendance_student_remark.js"></script>';
 echo $output->footer();
