@@ -150,7 +150,8 @@ class restore_attendance_activity_structure_step extends restore_activity_struct
         $this->set_mapping('attendance_session', $oldid, $newitemid, true);
 
         // Create Calendar event.
-        attendance_create_calendar_event($data);
+        //BPM - Prevent creation of calendar events for attendance
+        //attendance_create_calendar_event($data);
     }
 
     /**

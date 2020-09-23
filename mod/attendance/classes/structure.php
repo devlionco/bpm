@@ -492,7 +492,8 @@ class mod_attendance_structure {
         $DB->set_field('attendance_sessions', 'description', $description, array('id' => $sess->id));
 
         $sess->caleventid = 0;
-        attendance_create_calendar_event($sess);
+        //BPM - Prevent creation of calender events for attendance
+//        attendance_create_calendar_event($sess);
 
         $infoarray = array();
         $infoarray[] = construct_session_full_date_time($sess->sessdate, $sess->duration);
@@ -619,12 +620,13 @@ class mod_attendance_structure {
         $sess->timemodified = time();
         $DB->update_record('attendance_sessions', $sess);
 
-        if (empty($sess->caleventid)) {
-             // This shouldn't really happen, but just in case to prevent fatal error.
-            attendance_create_calendar_event($sess);
-        } else {
-            attendance_update_calendar_event($sess);
-        }
+        //BPM - Prevent creation of calender events for attendance
+//        if (empty($sess->caleventid)) {
+//             // This shouldn't really happen, but just in case to prevent fatal error.
+//            attendance_create_calendar_event($sess);
+//        } else {
+//            attendance_update_calendar_event($sess);
+//        }
 
         $info = construct_session_full_date_time($sess->sessdate, $sess->duration);
         $event = \mod_attendance\event\session_updated::create(array(
